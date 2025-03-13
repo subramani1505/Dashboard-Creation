@@ -18,11 +18,11 @@ st.markdown(
     """
     <style>
     .metric-box {
-        background-color: red;
+        background-color: yellow;
         border-radius: 5px;
         padding: 15px;
         text-align: center;
-        margin: 5px;
+        margin: 2px;
         box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
     }
     </style>
