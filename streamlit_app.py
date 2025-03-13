@@ -61,10 +61,8 @@ with col2:
 st.subheader("Payment Status")
 col1, col2 = st.columns([1, 2])
 with col1:
-    top_vendors = df.groupby('Vendor Name', as_index=False)['Invoice Amount'].sum().nlargest(10, 'Invoice Amount')
-    fig1 = px.bar(top_vendors, x='Vendor Name', y='Invoice Amount', title='Top 10 Vendors by Invoice Amount')
-    st.plotly_chart(fig1, use_container_width=True)
-
+    fig3 = px.pie(df, names='Payment Status', values='Invoice Amount', title='Payment Status Distribution')
+    st.plotly_chart(fig3, use_container_width=True)
 with col2:
     st.subheader("Overdue Invoices")
     overdue_df = df[df['Payment Status'] == 'Overdue'][['Vendor Name', 'Invoice Amount', 'Days Overdue']]
