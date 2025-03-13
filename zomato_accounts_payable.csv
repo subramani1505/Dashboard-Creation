@@ -1,0 +1,1001 @@
+Vendor ID,Vendor Name,Vendor Category,Invoice Number,Invoice Date,Invoice Amount,Due Date,Payment Date,Payment Status,Payment Method,Days Overdue
+VEN001,"Kelley, Wilson and Noble",Logistics,INV-2023-001,26-01-2025,195386.22,25-02-2025,20-02-2025,Paid,Cheque,0
+VEN002,White LLC,Restaurant Partners,INV-2023-002,07-09-2024,42056.5,07-10-2024,,Overdue,UPI,157
+VEN003,Parks and Sons,Marketing,INV-2023-003,25-10-2024,176990.4,24-11-2024,29-11-2024,Paid,Cheque,0
+VEN004,"Bond, Mendez and Cochran",Restaurant Partners,INV-2023-004,26-03-2024,33654.45,25-04-2024,20-04-2024,Paid,UPI,0
+VEN005,"Vincent, Welch and Camacho",Logistics,INV-2023-005,19-11-2024,29099.48,19-12-2024,19-12-2024,Paid,Bank Transfer,0
+VEN006,"Pearson, May and Price",Logistics,INV-2023-006,26-08-2024,71072.64,25-09-2024,,Pending,Bank Transfer,0
+VEN007,Bridges Inc,Logistics,INV-2023-007,30-12-2024,70606.73,29-01-2025,29-01-2025,Paid,Bank Transfer,0
+VEN008,"Carter, Maxwell and Austin",Marketing,INV-2023-008,02-04-2024,142209.16,02-05-2024,,Overdue,UPI,315
+VEN009,Meyer-Williams,Marketing,INV-2023-009,20-12-2024,27509.44,19-01-2025,,Overdue,UPI,53
+VEN010,"Lee, Smith and Jackson",Marketing,INV-2023-010,24-10-2024,82515.24,23-11-2024,,Overdue,UPI,110
+VEN011,Carr-Barnett,Logistics,INV-2023-011,11-04-2024,108667.13,11-05-2024,,Pending,UPI,0
+VEN012,Kennedy-Francis,Logistics,INV-2023-012,10-11-2024,196564.02,10-12-2024,,Overdue,UPI,93
+VEN013,Blair Ltd,Marketing,INV-2023-013,26-05-2024,56269.34,25-06-2024,23-06-2024,Paid,Bank Transfer,0
+VEN014,Martin-Smith,Logistics,INV-2023-014,23-10-2024,39346.36,22-11-2024,27-11-2024,Paid,Cheque,0
+VEN015,"Chavez, Tran and Holden",Logistics,INV-2023-015,14-01-2025,38138.56,13-02-2025,,Overdue,Cheque,28
+VEN016,Singh-Harrell,Restaurant Partners,INV-2023-016,27-02-2025,164226.72,29-03-2025,,Pending,Bank Transfer,0
+VEN017,Deleon Ltd,Packaging,INV-2023-017,13-04-2024,132531.23,13-05-2024,,Pending,Cheque,0
+VEN018,Walton-Owen,Marketing,INV-2023-018,06-04-2024,101636.16,06-05-2024,06-05-2024,Paid,UPI,0
+VEN019,Smith and Sons,Logistics,INV-2023-019,10-02-2025,7526.14,12-03-2025,10-03-2025,Paid,UPI,0
+VEN020,Johnson-Clark,Logistics,INV-2023-020,20-06-2024,159795.44,20-07-2024,,Overdue,Cheque,236
+VEN021,Jacobs and Sons,Packaging,INV-2023-021,17-02-2025,119304.53,19-03-2025,,Pending,UPI,0
+VEN022,Anderson Inc,Packaging,INV-2023-022,01-12-2024,100592.76,31-12-2024,,Overdue,UPI,72
+VEN023,"Parker, Fletcher and Gilbert",Marketing,INV-2023-023,12-03-2024,22436.24,11-04-2024,,Pending,Cheque,0
+VEN024,Collins and Sons,Marketing,INV-2023-024,07-03-2025,139305.24,06-04-2025,11-04-2025,Paid,UPI,0
+VEN025,"Perez, Sullivan and Thomas",Marketing,INV-2023-025,23-03-2024,94836.38,22-04-2024,,Pending,UPI,0
+VEN026,Hancock-Garcia,Marketing,INV-2023-026,18-11-2024,130836.05,18-12-2024,16-12-2024,Paid,Bank Transfer,0
+VEN027,Wiley-Sullivan,Marketing,INV-2023-027,19-05-2024,74052.84,18-06-2024,13-06-2024,Paid,Bank Transfer,0
+VEN028,Wilson Ltd,Marketing,INV-2023-028,29-06-2024,31282.01,29-07-2024,29-07-2024,Paid,Bank Transfer,0
+VEN029,"Fields, Johnson and Shelton",Logistics,INV-2023-029,28-04-2024,99162.06,28-05-2024,26-05-2024,Paid,Cheque,0
+VEN030,Gomez-White,Marketing,INV-2023-030,19-05-2024,43997.05,18-06-2024,,Overdue,Cheque,268
+VEN031,Baldwin-King,Marketing,INV-2023-031,11-05-2024,27461.98,10-06-2024,,Pending,Bank Transfer,0
+VEN032,"Kim, Day and Davis",Restaurant Partners,INV-2023-032,17-05-2024,59151.54,16-06-2024,11-06-2024,Paid,Bank Transfer,0
+VEN033,"Schultz, Sparks and Wolf",Restaurant Partners,INV-2023-033,14-08-2024,110015.62,13-09-2024,,Overdue,Bank Transfer,181
+VEN034,"Thompson, Day and Duran",Restaurant Partners,INV-2023-034,24-04-2024,172297.94,24-05-2024,,Overdue,Cheque,293
+VEN035,Young PLC,Marketing,INV-2023-035,18-10-2024,132764.62,17-11-2024,,Overdue,Cheque,116
+VEN036,Stone Ltd,Restaurant Partners,INV-2023-036,11-07-2024,159865.02,10-08-2024,20-08-2024,Paid,Cheque,0
+VEN037,Lin-Mcfarland,Packaging,INV-2023-037,18-02-2025,103610.16,20-03-2025,,Overdue,Bank Transfer,-7
+VEN038,"Garcia, Phillips and Garcia",Marketing,INV-2023-038,18-08-2024,44117.15,17-09-2024,,Pending,UPI,0
+VEN039,Castillo Inc,Marketing,INV-2023-039,26-03-2024,78961.25,25-04-2024,,Overdue,UPI,322
+VEN040,"Moyer, Barton and Rodriguez",Logistics,INV-2023-040,22-11-2024,101396.94,22-12-2024,27-12-2024,Paid,Cheque,0
+VEN041,Reed PLC,Restaurant Partners,INV-2023-041,16-12-2024,23587.48,15-01-2025,,Overdue,Bank Transfer,57
+VEN042,Jennings-Garner,Logistics,INV-2023-042,12-07-2024,49333.15,11-08-2024,,Overdue,Cheque,214
+VEN043,"Rowe, Galloway and Valdez",Marketing,INV-2023-043,30-01-2025,47466.78,01-03-2025,,Pending,UPI,0
+VEN044,Curtis Group,Logistics,INV-2023-044,05-04-2024,71442.79,05-05-2024,30-04-2024,Paid,Bank Transfer,0
+VEN045,Ward-Villegas,Restaurant Partners,INV-2023-045,17-02-2025,135067.03,19-03-2025,,Pending,Cheque,0
+VEN046,Townsend-Howard,Restaurant Partners,INV-2023-046,31-07-2024,169251.07,30-08-2024,,Overdue,Bank Transfer,195
+VEN047,"Jones, Browning and Brown",Marketing,INV-2023-047,16-09-2024,51451.33,16-10-2024,11-10-2024,Paid,Bank Transfer,0
+VEN048,Nixon-Murphy,Packaging,INV-2023-048,23-09-2024,139018.36,23-10-2024,,Pending,UPI,0
+VEN049,"Buck, Mccoy and Harmon",Restaurant Partners,INV-2023-049,14-07-2024,40018.95,13-08-2024,13-08-2024,Paid,Bank Transfer,0
+VEN050,Lowe Ltd,Logistics,INV-2023-050,19-07-2024,138078.8,18-08-2024,23-08-2024,Paid,Bank Transfer,0
+VEN051,Parker-Harper,Marketing,INV-2023-051,16-01-2025,182560.9,15-02-2025,,Overdue,Bank Transfer,26
+VEN052,Hernandez-Johnson,Logistics,INV-2023-052,04-09-2024,179042.26,04-10-2024,09-10-2024,Paid,UPI,0
+VEN053,Mcgee-Sanchez,Marketing,INV-2023-053,06-02-2025,72333.25,08-03-2025,,Overdue,Cheque,5
+VEN054,Smith Group,Packaging,INV-2023-054,30-08-2024,9415.92,29-09-2024,,Overdue,Cheque,165
+VEN055,Orozco Group,Packaging,INV-2023-055,09-07-2024,23351.09,08-08-2024,,Pending,Cheque,0
+VEN056,Bush LLC,Restaurant Partners,INV-2023-056,26-03-2024,103457.57,25-04-2024,,Pending,UPI,0
+VEN057,White-Cole,Marketing,INV-2023-057,26-05-2024,118956.96,25-06-2024,25-06-2024,Paid,Bank Transfer,0
+VEN058,"Beasley, Freeman and Bryant",Marketing,INV-2023-058,10-05-2024,84399.73,09-06-2024,,Pending,Bank Transfer,0
+VEN059,"Hernandez, Miller and Lopez",Marketing,INV-2023-059,30-09-2024,129890.98,30-10-2024,,Overdue,Bank Transfer,134
+VEN060,Jones Group,Restaurant Partners,INV-2023-060,23-12-2024,21441.96,22-01-2025,,Pending,UPI,0
+VEN061,Daniel and Sons,Packaging,INV-2023-061,17-04-2024,40741.28,17-05-2024,,Pending,UPI,0
+VEN062,"Foster, Taylor and Carroll",Logistics,INV-2023-062,31-08-2024,145594.87,30-09-2024,,Overdue,Cheque,164
+VEN063,"Rowe, Perry and Owens",Marketing,INV-2023-063,14-10-2024,7588.33,13-11-2024,,Pending,UPI,0
+VEN064,Brown Ltd,Marketing,INV-2023-064,01-11-2024,70774.73,01-12-2024,11-12-2024,Paid,UPI,0
+VEN065,Nguyen-Johnson,Packaging,INV-2023-065,02-02-2025,9974.53,04-03-2025,,Overdue,Cheque,9
+VEN066,Dennis-Smith,Marketing,INV-2023-066,20-12-2024,187366,19-01-2025,24-01-2025,Paid,UPI,0
+VEN067,"Gonzalez, Snyder and Brooks",Marketing,INV-2023-067,26-12-2024,87521.1,25-01-2025,04-02-2025,Paid,Bank Transfer,0
+VEN068,Rodriguez and Sons,Packaging,INV-2023-068,10-08-2024,184790.29,09-09-2024,,Overdue,Cheque,185
+VEN069,Campbell PLC,Restaurant Partners,INV-2023-069,04-12-2024,35841.57,03-01-2025,,Pending,Cheque,0
+VEN070,Parks Inc,Logistics,INV-2023-070,01-01-2025,192286.16,31-01-2025,31-01-2025,Paid,UPI,0
+VEN071,Smith-Gomez,Packaging,INV-2023-071,19-09-2024,20701.64,19-10-2024,17-10-2024,Paid,UPI,0
+VEN072,"Wang, Gutierrez and Garcia",Restaurant Partners,INV-2023-072,11-11-2024,63996.77,11-12-2024,06-12-2024,Paid,Cheque,0
+VEN073,"Diaz, Rhodes and Welch",Restaurant Partners,INV-2023-073,15-02-2025,48543.89,17-03-2025,,Pending,Bank Transfer,0
+VEN074,Fischer PLC,Logistics,INV-2023-074,21-12-2024,118892.9,20-01-2025,,Pending,UPI,0
+VEN075,Cohen-Wright,Packaging,INV-2023-075,21-01-2025,198875.04,20-02-2025,20-02-2025,Paid,UPI,0
+VEN076,Calderon Ltd,Packaging,INV-2023-076,12-10-2024,15769.92,11-11-2024,,Pending,Bank Transfer,0
+VEN077,Johnson LLC,Logistics,INV-2023-077,28-12-2024,25667.98,27-01-2025,,Pending,Cheque,0
+VEN078,Miller Inc,Logistics,INV-2023-078,11-02-2025,72602.43,13-03-2025,,Pending,Cheque,0
+VEN079,"Malone, Webb and Mills",Marketing,INV-2023-079,03-12-2024,114925.33,02-01-2025,,Overdue,Bank Transfer,70
+VEN080,Wright-Bonilla,Restaurant Partners,INV-2023-080,12-03-2024,197296.29,11-04-2024,,Overdue,Bank Transfer,336
+VEN081,"Mckinney, Pena and Rosario",Logistics,INV-2023-081,31-08-2024,33213.42,30-09-2024,,Overdue,Bank Transfer,164
+VEN082,Nelson-Hunt,Logistics,INV-2023-082,12-04-2024,31414.91,12-05-2024,,Overdue,Cheque,305
+VEN083,Peters LLC,Restaurant Partners,INV-2023-083,14-01-2025,68071.06,13-02-2025,23-02-2025,Paid,Bank Transfer,0
+VEN084,"Sandoval, Chung and Wagner",Restaurant Partners,INV-2023-084,30-05-2024,11574.96,29-06-2024,,Pending,UPI,0
+VEN085,"Ritter, Klein and Horn",Packaging,INV-2023-085,05-07-2024,97891.87,04-08-2024,,Overdue,Bank Transfer,221
+VEN086,Warren-Williams,Packaging,INV-2023-086,07-08-2024,60785.39,06-09-2024,16-09-2024,Paid,Bank Transfer,0
+VEN087,Bates-Duncan,Marketing,INV-2023-087,18-12-2024,191154.44,17-01-2025,,Pending,UPI,0
+VEN088,Kline-Bender,Packaging,INV-2023-088,11-07-2024,76793.52,10-08-2024,20-08-2024,Paid,Bank Transfer,0
+VEN089,Johnson Inc,Packaging,INV-2023-089,23-12-2024,73895.51,22-01-2025,,Overdue,UPI,50
+VEN090,"Grimes, George and Johnson",Packaging,INV-2023-090,04-08-2024,16054.06,03-09-2024,,Overdue,Bank Transfer,191
+VEN091,Lopez PLC,Logistics,INV-2023-091,03-10-2024,186546.17,02-11-2024,,Overdue,Cheque,131
+VEN092,"Martinez, Davenport and Ramirez",Restaurant Partners,INV-2023-092,17-11-2024,82397.49,17-12-2024,,Overdue,Bank Transfer,86
+VEN093,Hernandez Inc,Logistics,INV-2023-093,20-06-2024,187338.07,20-07-2024,25-07-2024,Paid,UPI,0
+VEN094,"Perkins, Villegas and Nguyen",Marketing,INV-2023-094,30-01-2025,94027.49,01-03-2025,,Overdue,Bank Transfer,12
+VEN095,Ryan LLC,Logistics,INV-2023-095,14-03-2024,147452.81,13-04-2024,,Overdue,UPI,334
+VEN096,Michael-Kline,Marketing,INV-2023-096,01-01-2025,66994.89,31-01-2025,,Pending,UPI,0
+VEN097,Gilmore-Nixon,Restaurant Partners,INV-2023-097,20-09-2024,166833.89,20-10-2024,,Pending,UPI,0
+VEN098,Hayes LLC,Restaurant Partners,INV-2023-098,08-11-2024,64262.06,08-12-2024,,Overdue,Cheque,95
+VEN099,Gomez and Sons,Marketing,INV-2023-099,19-07-2024,19412.44,18-08-2024,16-08-2024,Paid,Bank Transfer,0
+VEN100,Middleton Group,Packaging,INV-2023-100,25-06-2024,36888.67,25-07-2024,20-07-2024,Paid,Bank Transfer,0
+VEN101,"Knapp, Jones and Clark",Packaging,INV-2023-101,15-03-2024,5893.82,14-04-2024,14-04-2024,Paid,Bank Transfer,0
+VEN102,"Wade, Hays and Gilbert",Restaurant Partners,INV-2023-102,14-01-2025,148179.66,13-02-2025,13-02-2025,Paid,UPI,0
+VEN103,West Ltd,Restaurant Partners,INV-2023-103,10-01-2025,16880.12,09-02-2025,,Pending,UPI,0
+VEN104,Mccarty-Smith,Packaging,INV-2023-104,10-11-2024,41942.59,10-12-2024,,Pending,Bank Transfer,0
+VEN105,Mcmillan-Wilson,Marketing,INV-2023-105,04-05-2024,38437.21,03-06-2024,,Pending,UPI,0
+VEN106,Lin-Peterson,Marketing,INV-2023-106,22-07-2024,185521.35,21-08-2024,19-08-2024,Paid,UPI,0
+VEN107,"Evans, Sloan and Rose",Logistics,INV-2023-107,06-02-2025,106850.99,08-03-2025,,Pending,Cheque,0
+VEN108,Hatfield Ltd,Logistics,INV-2023-108,05-04-2024,63786.03,05-05-2024,,Pending,UPI,0
+VEN109,"Mills, Moore and Martinez",Marketing,INV-2023-109,25-02-2025,80396.19,27-03-2025,,Overdue,Bank Transfer,-14
+VEN110,"Koch, Larson and Reynolds",Packaging,INV-2023-110,06-11-2024,118703.71,06-12-2024,,Overdue,Cheque,97
+VEN111,Carroll-Martin,Logistics,INV-2023-111,25-04-2024,55360.29,25-05-2024,30-05-2024,Paid,Bank Transfer,0
+VEN112,Liu-Watts,Logistics,INV-2023-112,22-08-2024,162078.54,21-09-2024,,Pending,Bank Transfer,0
+VEN113,Owens-Kirby,Logistics,INV-2023-113,08-11-2024,12729.18,08-12-2024,,Overdue,UPI,95
+VEN114,"Harris, Collins and Scott",Logistics,INV-2023-114,06-02-2025,5028.63,08-03-2025,18-03-2025,Paid,Cheque,0
+VEN115,"Knapp, Chambers and Tate",Packaging,INV-2023-115,06-07-2024,15318.28,05-08-2024,,Pending,Bank Transfer,0
+VEN116,Ford LLC,Packaging,INV-2023-116,22-12-2024,113481.87,21-01-2025,21-01-2025,Paid,Cheque,0
+VEN117,"Jones, Reed and Hunt",Logistics,INV-2023-117,01-01-2025,103836.41,31-01-2025,,Overdue,Cheque,41
+VEN118,Edwards-Guerrero,Restaurant Partners,INV-2023-118,23-03-2024,149572.82,22-04-2024,,Pending,Bank Transfer,0
+VEN119,Freeman Group,Restaurant Partners,INV-2023-119,15-09-2024,100887.3,15-10-2024,20-10-2024,Paid,Cheque,0
+VEN120,"Peck, Brock and Jackson",Restaurant Partners,INV-2023-120,29-08-2024,146606.22,28-09-2024,,Overdue,Bank Transfer,166
+VEN121,Morgan-Peters,Logistics,INV-2023-121,15-03-2024,195353.02,14-04-2024,24-04-2024,Paid,Cheque,0
+VEN122,Johnson-Mcdonald,Marketing,INV-2023-122,03-01-2025,6948.52,02-02-2025,28-01-2025,Paid,Cheque,0
+VEN123,"Ray, Reyes and Guzman",Restaurant Partners,INV-2023-123,29-01-2025,164819.78,28-02-2025,,Pending,UPI,0
+VEN124,Snyder-Gardner,Logistics,INV-2023-124,22-09-2024,7885.42,22-10-2024,,Overdue,Bank Transfer,142
+VEN125,King-Wilcox,Logistics,INV-2023-125,12-03-2025,57258.14,11-04-2025,,Pending,Bank Transfer,0
+VEN126,Daniels PLC,Logistics,INV-2023-126,19-09-2024,89183.28,19-10-2024,17-10-2024,Paid,UPI,0
+VEN127,"Brown, Rogers and Graham",Restaurant Partners,INV-2023-127,23-10-2024,195729.52,22-11-2024,,Overdue,Bank Transfer,111
+VEN128,Garrett Inc,Logistics,INV-2023-128,04-07-2024,53758.03,03-08-2024,13-08-2024,Paid,Cheque,0
+VEN129,Norman PLC,Marketing,INV-2023-129,31-07-2024,39588.43,30-08-2024,,Overdue,Cheque,195
+VEN130,Cooke-Wolf,Logistics,INV-2023-130,27-06-2024,27115.15,27-07-2024,,Pending,UPI,0
+VEN131,Thomas-Greer,Marketing,INV-2023-131,15-07-2024,78194.38,14-08-2024,24-08-2024,Paid,UPI,0
+VEN132,"Evans, Hernandez and Bailey",Restaurant Partners,INV-2023-132,08-06-2024,129577.52,08-07-2024,08-07-2024,Paid,Cheque,0
+VEN133,"Erickson, Allen and Cherry",Logistics,INV-2023-133,19-05-2024,100744.64,18-06-2024,18-06-2024,Paid,UPI,0
+VEN134,Chase-Le,Packaging,INV-2023-134,14-02-2025,173799.08,16-03-2025,11-03-2025,Paid,UPI,0
+VEN135,"Palmer, Cabrera and Vaughn",Logistics,INV-2023-135,22-10-2024,22443.12,21-11-2024,,Overdue,UPI,112
+VEN136,Gonzalez-Morgan,Packaging,INV-2023-136,02-05-2024,85749.95,01-06-2024,30-05-2024,Paid,UPI,0
+VEN137,Johnson-Bishop,Restaurant Partners,INV-2023-137,02-01-2025,11344.01,01-02-2025,,Pending,Cheque,0
+VEN138,Henry-Nelson,Packaging,INV-2023-138,21-02-2025,26827.28,23-03-2025,,Overdue,UPI,-10
+VEN139,"Anderson, Walters and Ortiz",Logistics,INV-2023-139,22-06-2024,126207.97,22-07-2024,,Pending,UPI,0
+VEN140,Stewart PLC,Logistics,INV-2023-140,02-12-2024,138099.45,01-01-2025,27-12-2024,Paid,Bank Transfer,0
+VEN141,Roberts-Matthews,Marketing,INV-2023-141,28-10-2024,152014.68,27-11-2024,07-12-2024,Paid,Bank Transfer,0
+VEN142,Williams-Rosales,Marketing,INV-2023-142,13-03-2024,45337.59,12-04-2024,,Pending,Bank Transfer,0
+VEN143,Bishop-Braun,Packaging,INV-2023-143,29-01-2025,159999.47,28-02-2025,,Overdue,Bank Transfer,13
+VEN144,Young Ltd,Marketing,INV-2023-144,02-01-2025,91895.53,01-02-2025,,Pending,Cheque,0
+VEN145,"Garcia, Luna and Sanford",Restaurant Partners,INV-2023-145,27-11-2024,10781.73,27-12-2024,,Overdue,Bank Transfer,76
+VEN146,"Tyler, Pierce and Phillips",Restaurant Partners,INV-2023-146,06-03-2025,30694.68,05-04-2025,,Overdue,Cheque,-23
+VEN147,Stephens-Lamb,Packaging,INV-2023-147,08-09-2024,22040.96,08-10-2024,13-10-2024,Paid,UPI,0
+VEN148,Smith-Fields,Packaging,INV-2023-148,07-10-2024,156332.17,06-11-2024,,Pending,Cheque,0
+VEN149,Morton-Bird,Packaging,INV-2023-149,04-12-2024,77495.85,03-01-2025,29-12-2024,Paid,UPI,0
+VEN150,Orozco-Mckenzie,Marketing,INV-2023-150,29-06-2024,63950.75,29-07-2024,,Pending,Cheque,0
+VEN151,Choi Inc,Marketing,INV-2023-151,15-06-2024,121785.97,15-07-2024,10-07-2024,Paid,UPI,0
+VEN152,Rose-Russell,Packaging,INV-2023-152,29-03-2024,182091.85,28-04-2024,26-04-2024,Paid,Bank Transfer,0
+VEN153,Flores LLC,Packaging,INV-2023-153,15-09-2024,98596.33,15-10-2024,10-10-2024,Paid,UPI,0
+VEN154,"Weaver, Johnson and Carter",Restaurant Partners,INV-2023-154,22-05-2024,8605.64,21-06-2024,,Overdue,Cheque,265
+VEN155,Hernandez-Mitchell,Restaurant Partners,INV-2023-155,06-10-2024,75139.53,05-11-2024,03-11-2024,Paid,Cheque,0
+VEN156,Taylor-Beasley,Marketing,INV-2023-156,11-05-2024,110685.29,10-06-2024,,Overdue,Cheque,276
+VEN157,Smith and Sons,Logistics,INV-2023-157,04-01-2025,52849.34,03-02-2025,,Pending,Cheque,0
+VEN158,Martin PLC,Marketing,INV-2023-158,13-04-2024,63932.96,13-05-2024,,Pending,UPI,0
+VEN159,Smith LLC,Logistics,INV-2023-159,19-05-2024,123790.16,18-06-2024,,Pending,Bank Transfer,0
+VEN160,Harvey Inc,Packaging,INV-2023-160,25-11-2024,55516.07,25-12-2024,,Pending,UPI,0
+VEN161,Callahan-Palmer,Marketing,INV-2023-161,13-08-2024,98766.52,12-09-2024,07-09-2024,Paid,Cheque,0
+VEN162,Singleton PLC,Packaging,INV-2023-162,15-06-2024,28997.98,15-07-2024,,Pending,UPI,0
+VEN163,Andrews and Sons,Packaging,INV-2023-163,31-10-2024,49773.23,30-11-2024,,Overdue,UPI,103
+VEN164,"Kennedy, Wang and White",Restaurant Partners,INV-2023-164,03-07-2024,123763.03,02-08-2024,,Overdue,Bank Transfer,223
+VEN165,Holder Inc,Marketing,INV-2023-165,25-05-2024,183181.05,24-06-2024,,Pending,Cheque,0
+VEN166,"Williams, Warren and Ramirez",Restaurant Partners,INV-2023-166,25-03-2024,81330.13,24-04-2024,,Pending,Cheque,0
+VEN167,Lopez-Soto,Packaging,INV-2023-167,25-09-2024,153551.39,25-10-2024,,Overdue,Cheque,139
+VEN168,Day-Monroe,Restaurant Partners,INV-2023-168,29-03-2024,10024.19,28-04-2024,,Pending,Bank Transfer,0
+VEN169,Sullivan Inc,Restaurant Partners,INV-2023-169,25-11-2024,125941.29,25-12-2024,25-12-2024,Paid,UPI,0
+VEN170,Grant and Sons,Restaurant Partners,INV-2023-170,13-04-2024,135338.25,13-05-2024,,Pending,UPI,0
+VEN171,"Cisneros, Frazier and Quinn",Packaging,INV-2023-171,08-07-2024,17831.12,07-08-2024,,Overdue,Bank Transfer,218
+VEN172,Fisher Ltd,Packaging,INV-2023-172,06-06-2024,20629.34,06-07-2024,06-07-2024,Paid,UPI,0
+VEN173,"Jones, Knight and Robinson",Marketing,INV-2023-173,04-10-2024,71478.37,03-11-2024,,Pending,Bank Transfer,0
+VEN174,"Joseph, Anderson and Meyer",Packaging,INV-2023-174,07-07-2024,120134.93,06-08-2024,,Pending,Cheque,0
+VEN175,Bridges and Sons,Logistics,INV-2023-175,20-12-2024,96018.39,19-01-2025,,Overdue,Bank Transfer,53
+VEN176,Miller and Sons,Packaging,INV-2023-176,08-08-2024,31654.54,07-09-2024,,Pending,UPI,0
+VEN177,Sawyer LLC,Marketing,INV-2023-177,27-07-2024,123677.58,26-08-2024,,Pending,Bank Transfer,0
+VEN178,Jensen-Nelson,Marketing,INV-2023-178,09-01-2025,22439.66,08-02-2025,08-02-2025,Paid,Bank Transfer,0
+VEN179,James and Sons,Restaurant Partners,INV-2023-179,14-06-2024,84444.86,14-07-2024,,Overdue,Cheque,242
+VEN180,"Smith, Ayers and Wade",Marketing,INV-2023-180,21-08-2024,16170.01,20-09-2024,,Pending,Cheque,0
+VEN181,"Taylor, Hughes and Thomas",Restaurant Partners,INV-2023-181,04-11-2024,16102.69,04-12-2024,29-11-2024,Paid,Cheque,0
+VEN182,Reed-Mack,Restaurant Partners,INV-2023-182,22-06-2024,150372.78,22-07-2024,22-07-2024,Paid,Bank Transfer,0
+VEN183,Phelps and Sons,Restaurant Partners,INV-2023-183,12-07-2024,134489.5,11-08-2024,,Overdue,Cheque,214
+VEN184,Harrell and Sons,Restaurant Partners,INV-2023-184,06-06-2024,65760.37,06-07-2024,,Pending,Cheque,0
+VEN185,Fletcher LLC,Restaurant Partners,INV-2023-185,23-06-2024,48209.53,23-07-2024,,Pending,UPI,0
+VEN186,Harrington-Brown,Restaurant Partners,INV-2023-186,21-02-2025,87959.49,23-03-2025,,Pending,UPI,0
+VEN187,"Lopez, Burnett and Andersen",Restaurant Partners,INV-2023-187,27-04-2024,43615.82,27-05-2024,,Pending,Cheque,0
+VEN188,Mills LLC,Restaurant Partners,INV-2023-188,23-06-2024,75159.7,23-07-2024,,Pending,Cheque,0
+VEN189,Barton-Summers,Packaging,INV-2023-189,10-09-2024,21401.1,10-10-2024,15-10-2024,Paid,Cheque,0
+VEN190,Smith-Brewer,Restaurant Partners,INV-2023-190,17-11-2024,153909.39,17-12-2024,,Pending,Cheque,0
+VEN191,"Rodriguez, Huang and Nelson",Marketing,INV-2023-191,21-04-2024,146509.14,21-05-2024,,Pending,Bank Transfer,0
+VEN192,"Howard, Ross and Schneider",Packaging,INV-2023-192,29-12-2024,105916.38,28-01-2025,26-01-2025,Paid,UPI,0
+VEN193,Thomas Inc,Logistics,INV-2023-193,09-03-2025,145741.58,08-04-2025,,Pending,UPI,0
+VEN194,Luna-Ferguson,Logistics,INV-2023-194,25-01-2025,101634.98,24-02-2025,22-02-2025,Paid,UPI,0
+VEN195,"Walker, Bowen and Hoover",Restaurant Partners,INV-2023-195,13-10-2024,43153.35,12-11-2024,,Overdue,UPI,121
+VEN196,"Santos, Howard and Woods",Packaging,INV-2023-196,30-09-2024,99974.85,30-10-2024,,Pending,Bank Transfer,0
+VEN197,"Jensen, Edwards and Callahan",Restaurant Partners,INV-2023-197,17-08-2024,178215.83,16-09-2024,,Pending,Bank Transfer,0
+VEN198,Vargas-Johnson,Logistics,INV-2023-198,19-11-2024,152074.86,19-12-2024,,Pending,UPI,0
+VEN199,"Garcia, Ortega and Fisher",Restaurant Partners,INV-2023-199,06-10-2024,94543.04,05-11-2024,15-11-2024,Paid,Bank Transfer,0
+VEN200,"Wolf, George and White",Packaging,INV-2023-200,24-12-2024,34028.53,23-01-2025,,Overdue,UPI,49
+VEN201,Fisher Ltd,Packaging,INV-2023-201,30-04-2024,176271.03,30-05-2024,25-05-2024,Paid,Cheque,0
+VEN202,"Moore, Colon and Vincent",Marketing,INV-2023-202,29-04-2024,12282.37,29-05-2024,,Pending,Cheque,0
+VEN203,Gibson-Cross,Marketing,INV-2023-203,24-09-2024,105191.46,24-10-2024,19-10-2024,Paid,UPI,0
+VEN204,"Gibson, Hoover and Lee",Marketing,INV-2023-204,16-08-2024,149846.14,15-09-2024,13-09-2024,Paid,Bank Transfer,0
+VEN205,Horne-Cox,Restaurant Partners,INV-2023-205,25-10-2024,158628.28,24-11-2024,,Overdue,UPI,109
+VEN206,Thomas Inc,Restaurant Partners,INV-2023-206,12-05-2024,85181.17,11-06-2024,,Overdue,Cheque,275
+VEN207,Wood-Bailey,Packaging,INV-2023-207,11-09-2024,11929.89,11-10-2024,,Pending,Cheque,0
+VEN208,Howard Group,Packaging,INV-2023-208,06-04-2024,5727.49,06-05-2024,16-05-2024,Paid,Cheque,0
+VEN209,"Brown, Orozco and Sullivan",Marketing,INV-2023-209,13-03-2024,33056.69,12-04-2024,,Pending,Bank Transfer,0
+VEN210,Henderson-Harper,Logistics,INV-2023-210,29-08-2024,71557.14,28-09-2024,08-10-2024,Paid,UPI,0
+VEN211,Alexander-Alexander,Packaging,INV-2023-211,22-08-2024,125044.06,21-09-2024,16-09-2024,Paid,Bank Transfer,0
+VEN212,Perez-Mendez,Logistics,INV-2023-212,27-10-2024,140067.95,26-11-2024,24-11-2024,Paid,UPI,0
+VEN213,Drake LLC,Marketing,INV-2023-213,16-01-2025,100612.32,15-02-2025,,Overdue,Cheque,26
+VEN214,"Paul, Charles and Rodriguez",Logistics,INV-2023-214,16-11-2024,116573.33,16-12-2024,14-12-2024,Paid,Bank Transfer,0
+VEN215,Spence-Turner,Packaging,INV-2023-215,22-08-2024,161117.28,21-09-2024,,Pending,Cheque,0
+VEN216,"Rodriguez, Cannon and Velez",Logistics,INV-2023-216,10-08-2024,81933.11,09-09-2024,07-09-2024,Paid,Cheque,0
+VEN217,Fowler-Stark,Logistics,INV-2023-217,26-08-2024,183352.71,25-09-2024,,Pending,Bank Transfer,0
+VEN218,Brown-Gibson,Packaging,INV-2023-218,24-02-2025,155077.38,26-03-2025,31-03-2025,Paid,UPI,0
+VEN219,Collins-Yoder,Packaging,INV-2023-219,20-04-2024,94296.98,20-05-2024,18-05-2024,Paid,UPI,0
+VEN220,"Eaton, Walsh and Peterson",Marketing,INV-2023-220,12-10-2024,35753.97,11-11-2024,,Overdue,Bank Transfer,122
+VEN221,Holloway-Smith,Logistics,INV-2023-221,29-04-2024,71943.75,29-05-2024,29-05-2024,Paid,UPI,0
+VEN222,"Sullivan, Rodriguez and Jacobs",Packaging,INV-2023-222,15-04-2024,123921.57,15-05-2024,,Pending,Cheque,0
+VEN223,"Owen, Miller and Johnson",Marketing,INV-2023-223,17-06-2024,151460.39,17-07-2024,12-07-2024,Paid,UPI,0
+VEN224,Williams-Monroe,Packaging,INV-2023-224,30-07-2024,61375.42,29-08-2024,,Pending,UPI,0
+VEN225,Patterson-Hernandez,Packaging,INV-2023-225,13-02-2025,13362.78,15-03-2025,13-03-2025,Paid,UPI,0
+VEN226,Stephens Group,Restaurant Partners,INV-2023-226,10-05-2024,31126.2,09-06-2024,,Overdue,Cheque,277
+VEN227,"Smith, Reeves and Obrien",Logistics,INV-2023-227,30-05-2024,135501.42,29-06-2024,,Pending,UPI,0
+VEN228,"Reyes, Johnson and Lucas",Restaurant Partners,INV-2023-228,02-10-2024,39354.79,01-11-2024,,Pending,Bank Transfer,0
+VEN229,"Horton, Munoz and Brown",Marketing,INV-2023-229,04-12-2024,50080.47,03-01-2025,01-01-2025,Paid,UPI,0
+VEN230,Wright Ltd,Marketing,INV-2023-230,14-04-2024,104836.58,14-05-2024,,Overdue,UPI,303
+VEN231,Brown Inc,Logistics,INV-2023-231,18-07-2024,175239.54,17-08-2024,,Overdue,Cheque,208
+VEN232,Dixon LLC,Logistics,INV-2023-232,29-10-2024,113551.64,28-11-2024,,Overdue,Cheque,105
+VEN233,Roberts-Hayes,Logistics,INV-2023-233,22-06-2024,5127.03,22-07-2024,,Overdue,UPI,234
+VEN234,Brooks PLC,Marketing,INV-2023-234,25-10-2024,158314.71,24-11-2024,,Pending,Bank Transfer,0
+VEN235,Vasquez and Sons,Logistics,INV-2023-235,26-11-2024,25114.12,26-12-2024,21-12-2024,Paid,UPI,0
+VEN236,Coleman Group,Packaging,INV-2023-236,10-01-2025,7375.34,09-02-2025,,Overdue,Bank Transfer,32
+VEN237,Glover Inc,Marketing,INV-2023-237,10-02-2025,93858.37,12-03-2025,,Pending,UPI,0
+VEN238,"Meadows, Wade and Clarke",Restaurant Partners,INV-2023-238,29-06-2024,38113.49,29-07-2024,24-07-2024,Paid,UPI,0
+VEN239,"Leonard, Gillespie and Miller",Marketing,INV-2023-239,28-10-2024,44420.12,27-11-2024,,Overdue,Bank Transfer,106
+VEN240,"Snyder, Valencia and Romero",Restaurant Partners,INV-2023-240,07-04-2024,73107.52,07-05-2024,,Pending,Bank Transfer,0
+VEN241,"Mccormick, Robertson and Rocha",Logistics,INV-2023-241,23-01-2025,148920.7,22-02-2025,27-02-2025,Paid,Bank Transfer,0
+VEN242,Ewing-Rivas,Restaurant Partners,INV-2023-242,18-09-2024,117199.85,18-10-2024,,Pending,Cheque,0
+VEN243,Garcia-Arnold,Packaging,INV-2023-243,21-01-2025,37779.07,20-02-2025,,Overdue,UPI,21
+VEN244,Stewart-Foster,Restaurant Partners,INV-2023-244,02-07-2024,86032.58,01-08-2024,01-08-2024,Paid,Cheque,0
+VEN245,Espinoza-Cannon,Packaging,INV-2023-245,04-10-2024,56607.41,03-11-2024,01-11-2024,Paid,Bank Transfer,0
+VEN246,"Smith, Perez and Rogers",Logistics,INV-2023-246,19-04-2024,112017.7,19-05-2024,,Pending,Cheque,0
+VEN247,Jenkins-Murphy,Marketing,INV-2023-247,21-12-2024,132674.14,20-01-2025,20-01-2025,Paid,Cheque,0
+VEN248,"Thomas, Bass and Harris",Packaging,INV-2023-248,01-04-2024,60250.03,01-05-2024,,Overdue,Bank Transfer,316
+VEN249,Riley-Washington,Restaurant Partners,INV-2023-249,14-09-2024,169243.54,14-10-2024,,Pending,Cheque,0
+VEN250,Lynn-Gibson,Marketing,INV-2023-250,12-04-2024,64923.11,12-05-2024,,Pending,UPI,0
+VEN251,Edwards-Nunez,Marketing,INV-2023-251,06-04-2024,44904.59,06-05-2024,11-05-2024,Paid,Cheque,0
+VEN252,"Henry, Myers and Dunn",Restaurant Partners,INV-2023-252,02-10-2024,181691.15,01-11-2024,,Pending,UPI,0
+VEN253,"Barnett, Cook and Howell",Restaurant Partners,INV-2023-253,10-06-2024,61483.3,10-07-2024,,Overdue,Bank Transfer,246
+VEN254,Gutierrez and Sons,Logistics,INV-2023-254,30-12-2024,169666.05,29-01-2025,,Overdue,Bank Transfer,43
+VEN255,Lewis Ltd,Restaurant Partners,INV-2023-255,06-10-2024,167523.02,05-11-2024,,Overdue,UPI,128
+VEN256,Campbell-Reed,Restaurant Partners,INV-2023-256,23-08-2024,112637.25,22-09-2024,,Pending,UPI,0
+VEN257,King PLC,Logistics,INV-2023-257,08-01-2025,50009.36,07-02-2025,,Overdue,Cheque,34
+VEN258,Campbell Inc,Restaurant Partners,INV-2023-258,14-07-2024,129727.7,13-08-2024,13-08-2024,Paid,Cheque,0
+VEN259,"Madden, Hurst and King",Logistics,INV-2023-259,09-09-2024,126601.96,09-10-2024,,Overdue,UPI,155
+VEN260,Sellers-Wright,Logistics,INV-2023-260,28-06-2024,152479.11,28-07-2024,,Overdue,Cheque,228
+VEN261,Dixon-Miller,Logistics,INV-2023-261,11-05-2024,162786.23,10-06-2024,,Pending,Cheque,0
+VEN262,Rivera Group,Logistics,INV-2023-262,22-12-2024,155554.9,21-01-2025,,Pending,UPI,0
+VEN263,Grant Ltd,Restaurant Partners,INV-2023-263,04-01-2025,127221.93,03-02-2025,29-01-2025,Paid,Bank Transfer,0
+VEN264,Lawrence-Sandoval,Logistics,INV-2023-264,17-09-2024,198053.86,17-10-2024,12-10-2024,Paid,Cheque,0
+VEN265,"Weiss, Jones and Rice",Logistics,INV-2023-265,19-03-2024,192603.37,18-04-2024,,Overdue,Cheque,329
+VEN266,Miller and Sons,Restaurant Partners,INV-2023-266,26-03-2024,36489.03,25-04-2024,,Overdue,Cheque,322
+VEN267,Palmer-Waters,Marketing,INV-2023-267,17-07-2024,87667.2,16-08-2024,,Overdue,Cheque,209
+VEN268,Weber-Chang,Packaging,INV-2023-268,25-10-2024,16915.58,24-11-2024,22-11-2024,Paid,Bank Transfer,0
+VEN269,"Lynch, Graves and Hubbard",Logistics,INV-2023-269,11-04-2024,189958.37,11-05-2024,,Overdue,Bank Transfer,306
+VEN270,"Johnson, Lewis and Wood",Restaurant Partners,INV-2023-270,01-11-2024,32424.05,01-12-2024,,Pending,Cheque,0
+VEN271,"Pearson, Butler and Delgado",Logistics,INV-2023-271,13-08-2024,99864.25,12-09-2024,,Pending,UPI,0
+VEN272,"Booker, Lawrence and Reynolds",Logistics,INV-2023-272,09-10-2024,105238.06,08-11-2024,13-11-2024,Paid,UPI,0
+VEN273,"Smith, Gordon and Phillips",Logistics,INV-2023-273,21-06-2024,14258.56,21-07-2024,,Pending,UPI,0
+VEN274,Mcknight and Sons,Marketing,INV-2023-274,31-07-2024,183498.46,30-08-2024,,Pending,Cheque,0
+VEN275,Reed Group,Packaging,INV-2023-275,19-02-2025,132784.64,21-03-2025,,Pending,Bank Transfer,0
+VEN276,Hubbard-White,Packaging,INV-2023-276,05-04-2024,93558.72,05-05-2024,03-05-2024,Paid,Bank Transfer,0
+VEN277,Moore-Glenn,Marketing,INV-2023-277,03-02-2025,51558.37,05-03-2025,,Overdue,Cheque,8
+VEN278,Wheeler Ltd,Packaging,INV-2023-278,05-09-2024,67098.2,05-10-2024,,Pending,Cheque,0
+VEN279,Tapia and Sons,Restaurant Partners,INV-2023-279,20-02-2025,19136.21,22-03-2025,,Pending,Cheque,0
+VEN280,Sullivan PLC,Packaging,INV-2023-280,17-05-2024,19566.95,16-06-2024,11-06-2024,Paid,Cheque,0
+VEN281,Mcmahon PLC,Restaurant Partners,INV-2023-281,01-09-2024,28147.69,01-10-2024,06-10-2024,Paid,Cheque,0
+VEN282,Jones PLC,Marketing,INV-2023-282,21-03-2024,136164.93,20-04-2024,,Overdue,UPI,327
+VEN283,Wolf and Sons,Packaging,INV-2023-283,19-01-2025,141036.89,18-02-2025,,Overdue,UPI,23
+VEN284,Adams-Simpson,Marketing,INV-2023-284,15-11-2024,27592.14,15-12-2024,,Overdue,UPI,88
+VEN285,"Perkins, Walker and Richards",Logistics,INV-2023-285,25-07-2024,66291.19,24-08-2024,22-08-2024,Paid,UPI,0
+VEN286,Hudson-Morris,Packaging,INV-2023-286,01-08-2024,72362.34,31-08-2024,,Overdue,Bank Transfer,194
+VEN287,Fletcher-Peters,Restaurant Partners,INV-2023-287,10-11-2024,103338.48,10-12-2024,20-12-2024,Paid,Cheque,0
+VEN288,Hayes-Silva,Logistics,INV-2023-288,22-04-2024,38312.34,22-05-2024,,Overdue,Cheque,295
+VEN289,Smith LLC,Logistics,INV-2023-289,08-07-2024,67942.33,07-08-2024,,Pending,Cheque,0
+VEN290,French-Williams,Restaurant Partners,INV-2023-290,20-11-2024,34130.36,20-12-2024,30-12-2024,Paid,Bank Transfer,0
+VEN291,Humphrey-Brown,Marketing,INV-2023-291,12-10-2024,156871.46,11-11-2024,,Overdue,Cheque,122
+VEN292,"Lam, Marshall and Williams",Restaurant Partners,INV-2023-292,22-02-2025,165215.16,24-03-2025,,Pending,Bank Transfer,0
+VEN293,"Miranda, Anderson and Archer",Logistics,INV-2023-293,30-03-2024,55763.75,29-04-2024,09-05-2024,Paid,Bank Transfer,0
+VEN294,Conway-Erickson,Logistics,INV-2023-294,06-07-2024,189764.84,05-08-2024,,Pending,UPI,0
+VEN295,Torres Inc,Restaurant Partners,INV-2023-295,25-06-2024,56992.51,25-07-2024,,Pending,UPI,0
+VEN296,Clark-Woodard,Restaurant Partners,INV-2023-296,30-06-2024,73691.35,30-07-2024,,Pending,Bank Transfer,0
+VEN297,Harris-Roberts,Restaurant Partners,INV-2023-297,23-09-2024,179936.94,23-10-2024,,Pending,UPI,0
+VEN298,Hooper-Patterson,Logistics,INV-2023-298,04-02-2025,57026.8,06-03-2025,,Overdue,Bank Transfer,7
+VEN299,Miller Inc,Logistics,INV-2023-299,19-09-2024,176435.87,19-10-2024,,Pending,UPI,0
+VEN300,Gentry and Sons,Logistics,INV-2023-300,02-04-2024,145106.35,02-05-2024,,Overdue,Bank Transfer,315
+VEN301,Hudson-Shaw,Restaurant Partners,INV-2023-301,07-11-2024,92053,07-12-2024,,Pending,Bank Transfer,0
+VEN302,Johnson LLC,Restaurant Partners,INV-2023-302,01-04-2024,179517.33,01-05-2024,,Overdue,Cheque,316
+VEN303,"Mcfarland, Rivera and Marquez",Restaurant Partners,INV-2023-303,06-07-2024,130192.53,05-08-2024,03-08-2024,Paid,Cheque,0
+VEN304,"Baker, Leonard and Barr",Restaurant Partners,INV-2023-304,15-04-2024,178665.04,15-05-2024,,Overdue,Bank Transfer,302
+VEN305,Mcmahon Inc,Packaging,INV-2023-305,22-03-2024,177151.6,21-04-2024,,Overdue,Bank Transfer,326
+VEN306,Villegas Inc,Restaurant Partners,INV-2023-306,18-02-2025,192378.36,20-03-2025,20-03-2025,Paid,UPI,0
+VEN307,Rollins-Taylor,Logistics,INV-2023-307,16-01-2025,58342.53,15-02-2025,,Pending,UPI,0
+VEN308,Contreras PLC,Restaurant Partners,INV-2023-308,07-10-2024,77767.99,06-11-2024,,Pending,Bank Transfer,0
+VEN309,Glenn Inc,Packaging,INV-2023-309,07-01-2025,157081.76,06-02-2025,,Pending,UPI,0
+VEN310,"Banks, Reyes and Roy",Logistics,INV-2023-310,26-08-2024,124459.3,25-09-2024,,Overdue,Cheque,169
+VEN311,"Hobbs, Cooper and Dunn",Marketing,INV-2023-311,23-05-2024,118512.33,22-06-2024,22-06-2024,Paid,Bank Transfer,0
+VEN312,"Jones, Christensen and Mata",Logistics,INV-2023-312,30-01-2025,171086.21,01-03-2025,,Overdue,UPI,12
+VEN313,Jones-Parker,Marketing,INV-2023-313,28-05-2024,151757.33,27-06-2024,,Pending,Cheque,0
+VEN314,Scott-White,Marketing,INV-2023-314,12-01-2025,85909.59,11-02-2025,21-02-2025,Paid,Cheque,0
+VEN315,"Buck, Smith and Webster",Logistics,INV-2023-315,27-01-2025,109734.97,26-02-2025,,Overdue,Bank Transfer,15
+VEN316,Cox Inc,Packaging,INV-2023-316,27-06-2024,134493.29,27-07-2024,,Pending,Bank Transfer,0
+VEN317,"Williams, Wilson and Chavez",Marketing,INV-2023-317,08-07-2024,127321.22,07-08-2024,05-08-2024,Paid,Cheque,0
+VEN318,Bush and Sons,Marketing,INV-2023-318,29-05-2024,54062.34,28-06-2024,03-07-2024,Paid,UPI,0
+VEN319,Ashley-Mcmillan,Marketing,INV-2023-319,01-12-2024,79950.08,31-12-2024,,Pending,Cheque,0
+VEN320,"Taylor, Dunn and Cross",Marketing,INV-2023-320,08-08-2024,54702.05,07-09-2024,12-09-2024,Paid,Bank Transfer,0
+VEN321,Taylor-Martinez,Logistics,INV-2023-321,22-05-2024,70894.63,21-06-2024,,Pending,Cheque,0
+VEN322,"Martinez, Peterson and Kelley",Packaging,INV-2023-322,11-09-2024,133465.98,11-10-2024,11-10-2024,Paid,UPI,0
+VEN323,"Brown, Howell and Obrien",Restaurant Partners,INV-2023-323,18-05-2024,90790.43,17-06-2024,,Overdue,Bank Transfer,269
+VEN324,Charles-Collins,Packaging,INV-2023-324,03-08-2024,79956.27,02-09-2024,,Pending,UPI,0
+VEN325,Wagner PLC,Logistics,INV-2023-325,26-01-2025,147221.12,25-02-2025,,Pending,Cheque,0
+VEN326,"Horn, Tucker and Krueger",Packaging,INV-2023-326,11-02-2025,107851.78,13-03-2025,,Overdue,Cheque,0
+VEN327,"Morris, Watson and Joseph",Marketing,INV-2023-327,06-10-2024,113954.4,05-11-2024,10-11-2024,Paid,UPI,0
+VEN328,Vega LLC,Packaging,INV-2023-328,30-10-2024,48737.63,29-11-2024,,Overdue,Bank Transfer,104
+VEN329,"Price, Mckinney and Gallagher",Logistics,INV-2023-329,12-09-2024,9872.01,12-10-2024,,Overdue,UPI,152
+VEN330,Davenport Inc,Restaurant Partners,INV-2023-330,11-09-2024,154085.72,11-10-2024,09-10-2024,Paid,Cheque,0
+VEN331,"Williams, Tyler and Ford",Packaging,INV-2023-331,02-09-2024,65819.8,02-10-2024,,Pending,UPI,0
+VEN332,"Stewart, Nelson and Pacheco",Marketing,INV-2023-332,05-03-2025,102413.91,04-04-2025,,Overdue,UPI,-22
+VEN333,Berger-Mcguire,Marketing,INV-2023-333,24-08-2024,81347.88,23-09-2024,,Overdue,UPI,171
+VEN334,Beltran and Sons,Packaging,INV-2023-334,09-07-2024,98390.06,08-08-2024,,Pending,UPI,0
+VEN335,Martin-Meyer,Marketing,INV-2023-335,12-12-2024,174890.83,11-01-2025,06-01-2025,Paid,Bank Transfer,0
+VEN336,Gomez-Smith,Packaging,INV-2023-336,13-09-2024,199453.25,13-10-2024,,Pending,Cheque,0
+VEN337,Gomez Ltd,Restaurant Partners,INV-2023-337,03-05-2024,86446.98,02-06-2024,,Pending,Cheque,0
+VEN338,Santiago Ltd,Restaurant Partners,INV-2023-338,12-03-2025,84821.28,11-04-2025,16-04-2025,Paid,Cheque,0
+VEN339,"Adams, Robinson and Jackson",Marketing,INV-2023-339,07-02-2025,120694.66,09-03-2025,,Pending,Bank Transfer,0
+VEN340,Smith PLC,Logistics,INV-2023-340,29-01-2025,122140.31,28-02-2025,,Overdue,UPI,13
+VEN341,"Jackson, Alexander and Petty",Marketing,INV-2023-341,27-12-2024,193640.39,26-01-2025,26-01-2025,Paid,Cheque,0
+VEN342,Davis-Ramos,Logistics,INV-2023-342,27-10-2024,104936.26,26-11-2024,01-12-2024,Paid,Cheque,0
+VEN343,Malone-Smith,Restaurant Partners,INV-2023-343,16-01-2025,39452.09,15-02-2025,,Pending,Bank Transfer,0
+VEN344,Bauer-Dominguez,Logistics,INV-2023-344,15-02-2025,112480.14,17-03-2025,27-03-2025,Paid,Cheque,0
+VEN345,Walls-Frey,Marketing,INV-2023-345,30-09-2024,49100.77,30-10-2024,28-10-2024,Paid,Bank Transfer,0
+VEN346,Moore-Guerra,Marketing,INV-2023-346,10-09-2024,117224.52,10-10-2024,05-10-2024,Paid,UPI,0
+VEN347,"Butler, Montgomery and Wilkinson",Packaging,INV-2023-347,18-12-2024,20489.51,17-01-2025,12-01-2025,Paid,UPI,0
+VEN348,Macias and Sons,Restaurant Partners,INV-2023-348,17-10-2024,122916.2,16-11-2024,,Overdue,Cheque,117
+VEN349,Garza-Walsh,Packaging,INV-2023-349,18-11-2024,92751.71,18-12-2024,13-12-2024,Paid,UPI,0
+VEN350,Moore-Soto,Marketing,INV-2023-350,26-12-2024,143567.9,25-01-2025,20-01-2025,Paid,UPI,0
+VEN351,Mendoza PLC,Logistics,INV-2023-351,19-06-2024,99785.55,19-07-2024,14-07-2024,Paid,Bank Transfer,0
+VEN352,"Lamb, Cooper and Matthews",Logistics,INV-2023-352,16-12-2024,180358.92,15-01-2025,25-01-2025,Paid,Cheque,0
+VEN353,"Munoz, Cain and Hull",Packaging,INV-2023-353,21-07-2024,112513.93,20-08-2024,20-08-2024,Paid,UPI,0
+VEN354,Gomez-Grant,Marketing,INV-2023-354,06-06-2024,98459.87,06-07-2024,01-07-2024,Paid,Cheque,0
+VEN355,Rodriguez-Mccall,Logistics,INV-2023-355,08-07-2024,146270.49,07-08-2024,02-08-2024,Paid,Bank Transfer,0
+VEN356,Jenkins-Blackburn,Restaurant Partners,INV-2023-356,21-12-2024,125690.32,20-01-2025,,Pending,UPI,0
+VEN357,"Mcgee, Murphy and King",Packaging,INV-2023-357,12-03-2025,94948.47,11-04-2025,,Overdue,Bank Transfer,-29
+VEN358,"Hill, Green and Montgomery",Logistics,INV-2023-358,26-02-2025,86550.04,28-03-2025,23-03-2025,Paid,UPI,0
+VEN359,Thomas and Sons,Logistics,INV-2023-359,18-09-2024,152859.14,18-10-2024,13-10-2024,Paid,UPI,0
+VEN360,Black-Wood,Restaurant Partners,INV-2023-360,06-08-2024,193846.28,05-09-2024,,Overdue,Bank Transfer,189
+VEN361,"Taylor, Kaufman and Carter",Marketing,INV-2023-361,17-03-2024,165128.97,16-04-2024,,Overdue,Cheque,331
+VEN362,Hayes-Brown,Restaurant Partners,INV-2023-362,31-05-2024,88217.17,30-06-2024,,Overdue,Cheque,256
+VEN363,Lewis-Rush,Packaging,INV-2023-363,19-02-2025,186860.75,21-03-2025,26-03-2025,Paid,Cheque,0
+VEN364,Tucker-Sullivan,Logistics,INV-2023-364,13-02-2025,132253.28,15-03-2025,25-03-2025,Paid,UPI,0
+VEN365,Miles-Mclaughlin,Marketing,INV-2023-365,15-07-2024,144187.54,14-08-2024,,Overdue,UPI,211
+VEN366,Smith-Alvarez,Marketing,INV-2023-366,18-04-2024,60801.73,18-05-2024,18-05-2024,Paid,Bank Transfer,0
+VEN367,Smith-Gutierrez,Packaging,INV-2023-367,19-12-2024,6911.02,18-01-2025,,Overdue,Bank Transfer,54
+VEN368,Mullins-Johnson,Packaging,INV-2023-368,05-02-2025,129241.57,07-03-2025,02-03-2025,Paid,Bank Transfer,0
+VEN369,Glover-Washington,Packaging,INV-2023-369,16-10-2024,117675.1,15-11-2024,20-11-2024,Paid,Cheque,0
+VEN370,Walters Group,Packaging,INV-2023-370,01-07-2024,59324.12,31-07-2024,31-07-2024,Paid,Bank Transfer,0
+VEN371,Ramirez and Sons,Logistics,INV-2023-371,11-09-2024,161728.31,11-10-2024,16-10-2024,Paid,Bank Transfer,0
+VEN372,Evans-Bailey,Restaurant Partners,INV-2023-372,08-03-2025,198411.38,07-04-2025,,Overdue,Cheque,-25
+VEN373,"Hernandez, Waller and Thompson",Logistics,INV-2023-373,05-09-2024,158659.59,05-10-2024,15-10-2024,Paid,Bank Transfer,0
+VEN374,Ellis-Washington,Restaurant Partners,INV-2023-374,28-06-2024,9957.15,28-07-2024,,Overdue,Bank Transfer,228
+VEN375,Hernandez PLC,Marketing,INV-2023-375,15-01-2025,139889.68,14-02-2025,,Overdue,UPI,27
+VEN376,"Clark, Castillo and Murphy",Restaurant Partners,INV-2023-376,27-05-2024,44022.76,26-06-2024,,Overdue,Bank Transfer,260
+VEN377,Ramos-Silva,Logistics,INV-2023-377,21-09-2024,166094.07,21-10-2024,,Overdue,UPI,143
+VEN378,Phillips LLC,Logistics,INV-2023-378,07-02-2025,157614.35,09-03-2025,07-03-2025,Paid,Cheque,0
+VEN379,"Brown, Benton and Alvarez",Restaurant Partners,INV-2023-379,14-06-2024,36188.56,14-07-2024,,Pending,Cheque,0
+VEN380,Dudley-Carroll,Packaging,INV-2023-380,27-03-2024,30143.92,26-04-2024,,Overdue,Cheque,321
+VEN381,Smith-Rosario,Logistics,INV-2023-381,01-04-2024,15647.2,01-05-2024,01-05-2024,Paid,UPI,0
+VEN382,Hopkins and Sons,Packaging,INV-2023-382,23-12-2024,120551.7,22-01-2025,22-01-2025,Paid,UPI,0
+VEN383,Hernandez PLC,Logistics,INV-2023-383,21-03-2024,122833.54,20-04-2024,15-04-2024,Paid,Cheque,0
+VEN384,"Hudson, Miller and Trevino",Logistics,INV-2023-384,08-08-2024,191497.76,07-09-2024,,Pending,Cheque,0
+VEN385,"Gutierrez, Peterson and Ward",Logistics,INV-2023-385,02-06-2024,52788.73,02-07-2024,,Overdue,Bank Transfer,254
+VEN386,Mcintosh-Bennett,Packaging,INV-2023-386,01-12-2024,176891,31-12-2024,31-12-2024,Paid,Bank Transfer,0
+VEN387,Taylor LLC,Restaurant Partners,INV-2023-387,30-04-2024,44538.65,30-05-2024,,Overdue,Cheque,287
+VEN388,Mccarty Inc,Logistics,INV-2023-388,29-06-2024,42250.59,29-07-2024,,Pending,Cheque,0
+VEN389,Gould-Trujillo,Restaurant Partners,INV-2023-389,01-12-2024,197718.99,31-12-2024,,Overdue,Bank Transfer,72
+VEN390,Johnson-George,Marketing,INV-2023-390,25-03-2024,133608.2,24-04-2024,,Pending,Bank Transfer,0
+VEN391,Reilly Inc,Logistics,INV-2023-391,30-03-2024,106620.22,29-04-2024,,Overdue,Bank Transfer,318
+VEN392,Dixon-Schultz,Marketing,INV-2023-392,10-07-2024,64436.78,09-08-2024,,Overdue,UPI,216
+VEN393,Bell Ltd,Marketing,INV-2023-393,14-09-2024,199086.5,14-10-2024,,Overdue,UPI,150
+VEN394,Nunez-Wong,Restaurant Partners,INV-2023-394,05-06-2024,99674.09,05-07-2024,03-07-2024,Paid,Bank Transfer,0
+VEN395,"Butler, Garner and York",Restaurant Partners,INV-2023-395,10-01-2025,139927.78,09-02-2025,04-02-2025,Paid,Cheque,0
+VEN396,Daniels-Rodriguez,Marketing,INV-2023-396,14-06-2024,155229.25,14-07-2024,,Pending,Bank Transfer,0
+VEN397,Perez-Morales,Marketing,INV-2023-397,16-08-2024,151253.2,15-09-2024,,Overdue,Cheque,179
+VEN398,"Jacobs, Berry and Johnson",Restaurant Partners,INV-2023-398,26-01-2025,174058.33,25-02-2025,,Pending,UPI,0
+VEN399,"Schmidt, Church and Williams",Packaging,INV-2023-399,19-10-2024,137331.91,18-11-2024,,Overdue,Bank Transfer,115
+VEN400,Henry LLC,Packaging,INV-2023-400,14-03-2024,148718.08,13-04-2024,,Pending,Bank Transfer,0
+VEN401,"Cox, Erickson and Horton",Restaurant Partners,INV-2023-401,13-08-2024,125695.54,12-09-2024,22-09-2024,Paid,UPI,0
+VEN402,"Berry, Blevins and Montgomery",Packaging,INV-2023-402,23-09-2024,90382.59,23-10-2024,,Overdue,Bank Transfer,141
+VEN403,Werner-Miller,Logistics,INV-2023-403,15-10-2024,72330.86,14-11-2024,,Pending,Bank Transfer,0
+VEN404,Lang-Lowe,Logistics,INV-2023-404,17-01-2025,10821.75,16-02-2025,,Overdue,Cheque,25
+VEN405,Velazquez-Nguyen,Marketing,INV-2023-405,23-04-2024,160246.57,23-05-2024,,Pending,UPI,0
+VEN406,"Young, Bowman and Taylor",Logistics,INV-2023-406,01-07-2024,29952.32,31-07-2024,29-07-2024,Paid,Bank Transfer,0
+VEN407,Turner-Day,Restaurant Partners,INV-2023-407,19-11-2024,183271.16,19-12-2024,,Pending,UPI,0
+VEN408,Mcpherson-Vasquez,Restaurant Partners,INV-2023-408,04-10-2024,47403.67,03-11-2024,,Pending,Cheque,0
+VEN409,Casey Inc,Logistics,INV-2023-409,11-03-2025,155960.83,10-04-2025,,Pending,UPI,0
+VEN410,Fox-Kelley,Restaurant Partners,INV-2023-410,09-12-2024,126622.86,08-01-2025,03-01-2025,Paid,UPI,0
+VEN411,Jackson-Olsen,Restaurant Partners,INV-2023-411,03-11-2024,28277.24,03-12-2024,,Overdue,Bank Transfer,100
+VEN412,Cruz Inc,Marketing,INV-2023-412,21-02-2025,118495.27,23-03-2025,,Overdue,Bank Transfer,-10
+VEN413,Davis Inc,Logistics,INV-2023-413,28-10-2024,67935.49,27-11-2024,,Pending,Cheque,0
+VEN414,Miller LLC,Logistics,INV-2023-414,30-10-2024,12860.2,29-11-2024,,Pending,Cheque,0
+VEN415,Hernandez-Livingston,Logistics,INV-2023-415,22-02-2025,162825.91,24-03-2025,29-03-2025,Paid,Bank Transfer,0
+VEN416,Valdez Ltd,Packaging,INV-2023-416,21-02-2025,197994.64,23-03-2025,,Pending,Cheque,0
+VEN417,"Martin, Davis and Carney",Logistics,INV-2023-417,16-11-2024,7909.68,16-12-2024,,Overdue,Cheque,87
+VEN418,Gomez PLC,Packaging,INV-2023-418,21-10-2024,63799.72,20-11-2024,,Pending,Bank Transfer,0
+VEN419,"Beck, Wilson and Braun",Restaurant Partners,INV-2023-419,09-03-2025,12514.68,08-04-2025,03-04-2025,Paid,Bank Transfer,0
+VEN420,Kennedy Group,Marketing,INV-2023-420,07-09-2024,140600.83,07-10-2024,,Pending,UPI,0
+VEN421,"Hansen, Garner and Day",Packaging,INV-2023-421,12-08-2024,182768.78,11-09-2024,,Pending,Cheque,0
+VEN422,"Flores, Gray and Davis",Packaging,INV-2023-422,10-05-2024,181033.06,09-06-2024,,Pending,Bank Transfer,0
+VEN423,Brown and Sons,Logistics,INV-2023-423,07-06-2024,178964.3,07-07-2024,07-07-2024,Paid,Cheque,0
+VEN424,"Baird, Lynch and Brown",Restaurant Partners,INV-2023-424,20-09-2024,160659.88,20-10-2024,,Pending,Cheque,0
+VEN425,Jimenez-King,Packaging,INV-2023-425,30-10-2024,153444.49,29-11-2024,,Pending,Cheque,0
+VEN426,Townsend Group,Marketing,INV-2023-426,15-08-2024,138710.15,14-09-2024,,Pending,Cheque,0
+VEN427,"Lopez, Torres and Ward",Restaurant Partners,INV-2023-427,17-03-2024,101014.21,16-04-2024,14-04-2024,Paid,Bank Transfer,0
+VEN428,"Garcia, Smith and Martinez",Marketing,INV-2023-428,04-11-2024,177155.1,04-12-2024,09-12-2024,Paid,UPI,0
+VEN429,Arnold-Hickman,Marketing,INV-2023-429,28-05-2024,144405.78,27-06-2024,,Pending,Cheque,0
+VEN430,Garcia-Miller,Restaurant Partners,INV-2023-430,07-02-2025,57639.57,09-03-2025,04-03-2025,Paid,UPI,0
+VEN431,Adams and Sons,Packaging,INV-2023-431,11-05-2024,76098.59,10-06-2024,,Pending,Bank Transfer,0
+VEN432,Mcdonald PLC,Restaurant Partners,INV-2023-432,23-06-2024,66769.89,23-07-2024,28-07-2024,Paid,Bank Transfer,0
+VEN433,Blankenship-Lopez,Marketing,INV-2023-433,27-06-2024,198745.03,27-07-2024,,Overdue,Bank Transfer,229
+VEN434,"Singh, Gaines and Adams",Marketing,INV-2023-434,17-04-2024,180103.01,17-05-2024,,Overdue,Bank Transfer,300
+VEN435,Clark LLC,Logistics,INV-2023-435,14-08-2024,168803.41,13-09-2024,18-09-2024,Paid,UPI,0
+VEN436,Olson-Riley,Logistics,INV-2023-436,09-12-2024,147303.49,08-01-2025,,Overdue,Cheque,64
+VEN437,Lane Ltd,Packaging,INV-2023-437,23-12-2024,185251.26,22-01-2025,,Pending,UPI,0
+VEN438,Mcdaniel-Davis,Restaurant Partners,INV-2023-438,07-09-2024,64641.08,07-10-2024,17-10-2024,Paid,Cheque,0
+VEN439,Wilkerson Inc,Logistics,INV-2023-439,08-07-2024,126419.99,07-08-2024,,Overdue,Cheque,218
+VEN440,Grimes PLC,Logistics,INV-2023-440,08-12-2024,159950.96,07-01-2025,07-01-2025,Paid,Cheque,0
+VEN441,Hunter PLC,Packaging,INV-2023-441,04-07-2024,23664.22,03-08-2024,,Pending,Cheque,0
+VEN442,"Jimenez, Allen and Cole",Marketing,INV-2023-442,17-04-2024,74905,17-05-2024,,Overdue,Cheque,300
+VEN443,Miller-Howard,Logistics,INV-2023-443,18-04-2024,171375.72,18-05-2024,16-05-2024,Paid,Cheque,0
+VEN444,"Pace, Young and Brown",Restaurant Partners,INV-2023-444,23-09-2024,102353.19,23-10-2024,,Pending,UPI,0
+VEN445,Smith-Moore,Marketing,INV-2023-445,29-03-2024,196067.96,28-04-2024,,Overdue,Cheque,319
+VEN446,Johnson LLC,Packaging,INV-2023-446,17-07-2024,138019.36,16-08-2024,,Overdue,Bank Transfer,209
+VEN447,Gamble-Michael,Marketing,INV-2023-447,10-03-2025,197976.59,09-04-2025,,Pending,Cheque,0
+VEN448,Roberts-Allen,Marketing,INV-2023-448,31-10-2024,97902.16,30-11-2024,,Pending,Cheque,0
+VEN449,"Short, Meadows and Henry",Marketing,INV-2023-449,04-05-2024,123387.46,03-06-2024,13-06-2024,Paid,Cheque,0
+VEN450,Boyer-Davis,Packaging,INV-2023-450,11-06-2024,175026.33,11-07-2024,,Overdue,Cheque,245
+VEN451,Simmons-Andrews,Logistics,INV-2023-451,01-07-2024,136734.96,31-07-2024,29-07-2024,Paid,Bank Transfer,0
+VEN452,Martinez-Hunt,Logistics,INV-2023-452,16-01-2025,96916.5,15-02-2025,10-02-2025,Paid,Bank Transfer,0
+VEN453,Williams LLC,Logistics,INV-2023-453,16-03-2024,134385.42,15-04-2024,,Pending,Cheque,0
+VEN454,Long Ltd,Marketing,INV-2023-454,12-07-2024,50920.33,11-08-2024,,Pending,Cheque,0
+VEN455,Wilson Inc,Restaurant Partners,INV-2023-455,21-10-2024,198731.67,20-11-2024,18-11-2024,Paid,Bank Transfer,0
+VEN456,Golden-Stevenson,Marketing,INV-2023-456,30-08-2024,65315.98,29-09-2024,,Pending,Cheque,0
+VEN457,"Bennett, Wade and Hunter",Restaurant Partners,INV-2023-457,31-01-2025,179386.88,02-03-2025,25-02-2025,Paid,UPI,0
+VEN458,"Bryant, Waller and Nash",Marketing,INV-2023-458,14-10-2024,27647.61,13-11-2024,23-11-2024,Paid,Cheque,0
+VEN459,Riley Group,Logistics,INV-2023-459,16-10-2024,181232.94,15-11-2024,13-11-2024,Paid,UPI,0
+VEN460,Poole-Brock,Restaurant Partners,INV-2023-460,28-05-2024,93213.16,27-06-2024,,Overdue,Bank Transfer,259
+VEN461,Woods Inc,Logistics,INV-2023-461,03-05-2024,198776.2,02-06-2024,,Pending,UPI,0
+VEN462,Mitchell and Sons,Marketing,INV-2023-462,20-07-2024,153576.08,19-08-2024,,Pending,UPI,0
+VEN463,"Rangel, Davis and Maxwell",Packaging,INV-2023-463,23-06-2024,117719.3,23-07-2024,18-07-2024,Paid,Bank Transfer,0
+VEN464,"Peterson, Dunn and Jones",Packaging,INV-2023-464,22-07-2024,48650.35,21-08-2024,,Overdue,Cheque,204
+VEN465,Ortiz and Sons,Marketing,INV-2023-465,22-03-2024,99098.62,21-04-2024,,Pending,Cheque,0
+VEN466,Oliver Group,Packaging,INV-2023-466,19-11-2024,38109.18,19-12-2024,,Pending,UPI,0
+VEN467,Johnson PLC,Logistics,INV-2023-467,19-06-2024,144891.96,19-07-2024,,Pending,UPI,0
+VEN468,Figueroa Group,Packaging,INV-2023-468,02-11-2024,184132.85,02-12-2024,30-11-2024,Paid,UPI,0
+VEN469,Harris-Chen,Restaurant Partners,INV-2023-469,11-10-2024,82963.61,10-11-2024,,Pending,Bank Transfer,0
+VEN470,"Weaver, Aguilar and Wright",Logistics,INV-2023-470,09-04-2024,197678.76,09-05-2024,07-05-2024,Paid,Bank Transfer,0
+VEN471,Rodriguez and Sons,Marketing,INV-2023-471,04-03-2025,91439.22,03-04-2025,,Overdue,UPI,-21
+VEN472,"Coleman, Gonzalez and Smith",Logistics,INV-2023-472,24-06-2024,168402.98,24-07-2024,29-07-2024,Paid,Bank Transfer,0
+VEN473,Floyd Inc,Packaging,INV-2023-473,28-02-2025,20018.62,30-03-2025,,Overdue,UPI,-17
+VEN474,"Smith, Hill and Holmes",Packaging,INV-2023-474,27-06-2024,95440.7,27-07-2024,,Overdue,UPI,229
+VEN475,"Turner, Sexton and Nguyen",Marketing,INV-2023-475,09-03-2025,160182.83,08-04-2025,03-04-2025,Paid,Bank Transfer,0
+VEN476,"Hernandez, Yang and Simon",Restaurant Partners,INV-2023-476,05-09-2024,117598,05-10-2024,,Pending,Cheque,0
+VEN477,Williams Group,Marketing,INV-2023-477,25-12-2024,30973.5,24-01-2025,22-01-2025,Paid,Cheque,0
+VEN478,Schneider LLC,Marketing,INV-2023-478,30-06-2024,151585.01,30-07-2024,,Pending,Cheque,0
+VEN479,Lopez Group,Marketing,INV-2023-479,14-05-2024,139900.01,13-06-2024,,Overdue,Cheque,273
+VEN480,"Collins, Roman and Francis",Restaurant Partners,INV-2023-480,02-10-2024,46401.99,01-11-2024,01-11-2024,Paid,Cheque,0
+VEN481,"Anthony, Clayton and Garcia",Logistics,INV-2023-481,05-04-2024,70085.3,05-05-2024,,Pending,Bank Transfer,0
+VEN482,"Cox, Reyes and Cannon",Restaurant Partners,INV-2023-482,08-01-2025,100640.68,07-02-2025,,Pending,Bank Transfer,0
+VEN483,Valenzuela PLC,Logistics,INV-2023-483,01-09-2024,136409.68,01-10-2024,,Overdue,UPI,163
+VEN484,Galvan Group,Restaurant Partners,INV-2023-484,17-09-2024,78299.94,17-10-2024,,Pending,UPI,0
+VEN485,Ho Inc,Logistics,INV-2023-485,11-05-2024,119250.87,10-06-2024,08-06-2024,Paid,Cheque,0
+VEN486,Whitaker-Ball,Marketing,INV-2023-486,25-04-2024,7323.72,25-05-2024,23-05-2024,Paid,UPI,0
+VEN487,Arellano-Cole,Marketing,INV-2023-487,10-08-2024,180178.12,09-09-2024,,Overdue,Cheque,185
+VEN488,Gonzalez-Fischer,Restaurant Partners,INV-2023-488,02-11-2024,35132.27,02-12-2024,,Overdue,UPI,101
+VEN489,"Wilson, Smith and Bell",Logistics,INV-2023-489,22-04-2024,166541.6,22-05-2024,,Overdue,UPI,295
+VEN490,Wells-Walker,Marketing,INV-2023-490,04-07-2024,24887.26,03-08-2024,03-08-2024,Paid,UPI,0
+VEN491,"Osborne, Valdez and Collier",Marketing,INV-2023-491,14-05-2024,160775.7,13-06-2024,18-06-2024,Paid,Bank Transfer,0
+VEN492,"Martin, Bell and Bennett",Logistics,INV-2023-492,22-03-2024,169015.35,21-04-2024,,Pending,Cheque,0
+VEN493,Smith-Hoover,Marketing,INV-2023-493,06-03-2025,164558.8,05-04-2025,31-03-2025,Paid,Bank Transfer,0
+VEN494,Potter-Clay,Marketing,INV-2023-494,21-02-2025,130372.54,23-03-2025,,Overdue,Cheque,-10
+VEN495,"Moore, Guerra and Carpenter",Packaging,INV-2023-495,03-11-2024,24399.83,03-12-2024,,Pending,UPI,0
+VEN496,"Harris, Stone and Armstrong",Packaging,INV-2023-496,12-04-2024,179573.46,12-05-2024,12-05-2024,Paid,Cheque,0
+VEN497,Burton and Sons,Marketing,INV-2023-497,28-06-2024,183271.71,28-07-2024,02-08-2024,Paid,Bank Transfer,0
+VEN498,Mcintyre LLC,Marketing,INV-2023-498,06-08-2024,174883.69,05-09-2024,05-09-2024,Paid,Bank Transfer,0
+VEN499,Kelley Group,Marketing,INV-2023-499,13-01-2025,184727.95,12-02-2025,,Overdue,Cheque,29
+VEN500,Gonzalez-Weaver,Marketing,INV-2023-500,21-06-2024,124995.25,21-07-2024,,Overdue,Cheque,235
+VEN501,Gray-Barnes,Restaurant Partners,INV-2023-501,13-10-2024,161843.98,12-11-2024,,Overdue,UPI,121
+VEN502,"Reyes, Cooper and Smith",Marketing,INV-2023-502,04-09-2024,175235.37,04-10-2024,,Overdue,Bank Transfer,160
+VEN503,Davenport-Saunders,Logistics,INV-2023-503,22-08-2024,79744.69,21-09-2024,21-09-2024,Paid,Bank Transfer,0
+VEN504,Kelly Ltd,Marketing,INV-2023-504,05-08-2024,173529.18,04-09-2024,04-09-2024,Paid,Bank Transfer,0
+VEN505,Wells-Taylor,Marketing,INV-2023-505,10-07-2024,192789.17,09-08-2024,,Overdue,UPI,216
+VEN506,Hahn and Sons,Packaging,INV-2023-506,10-03-2025,197441.38,09-04-2025,,Pending,UPI,0
+VEN507,Mclaughlin and Sons,Packaging,INV-2023-507,27-07-2024,104319,26-08-2024,31-08-2024,Paid,Cheque,0
+VEN508,Roberts-Burns,Logistics,INV-2023-508,25-06-2024,155515.64,25-07-2024,,Overdue,Bank Transfer,231
+VEN509,Stewart Inc,Restaurant Partners,INV-2023-509,16-04-2024,41345.56,16-05-2024,,Pending,Cheque,0
+VEN510,Roberts Ltd,Logistics,INV-2023-510,05-09-2024,143800.95,05-10-2024,,Pending,Bank Transfer,0
+VEN511,Carter-Moore,Restaurant Partners,INV-2023-511,20-03-2024,37282.91,19-04-2024,,Pending,Cheque,0
+VEN512,Newman-Kelly,Restaurant Partners,INV-2023-512,13-04-2024,51472.11,13-05-2024,,Pending,UPI,0
+VEN513,"Brown, Vega and Saunders",Restaurant Partners,INV-2023-513,13-11-2024,117193.4,13-12-2024,,Overdue,UPI,90
+VEN514,Holmes Inc,Restaurant Partners,INV-2023-514,12-12-2024,68599.22,11-01-2025,,Pending,UPI,0
+VEN515,Mendez-Ferguson,Marketing,INV-2023-515,28-12-2024,146778.87,27-01-2025,,Overdue,UPI,45
+VEN516,"Thompson, Williams and Robinson",Logistics,INV-2023-516,15-04-2024,107433.12,15-05-2024,,Overdue,UPI,302
+VEN517,"Johnson, Stephenson and Evans",Packaging,INV-2023-517,01-04-2024,151480,01-05-2024,,Overdue,UPI,316
+VEN518,Beck-Robinson,Marketing,INV-2023-518,30-07-2024,38008.2,29-08-2024,,Overdue,UPI,196
+VEN519,Jones Ltd,Logistics,INV-2023-519,17-05-2024,59289.2,16-06-2024,14-06-2024,Paid,Bank Transfer,0
+VEN520,"Anderson, Kidd and Leon",Logistics,INV-2023-520,18-09-2024,30260.22,18-10-2024,,Overdue,Bank Transfer,146
+VEN521,Erickson-Figueroa,Logistics,INV-2023-521,13-04-2024,72192.95,13-05-2024,,Overdue,Bank Transfer,304
+VEN522,Garcia-Robles,Logistics,INV-2023-522,21-02-2025,133205.84,23-03-2025,,Pending,Cheque,0
+VEN523,"Cooper, Evans and Berger",Packaging,INV-2023-523,28-09-2024,64184.72,28-10-2024,07-11-2024,Paid,UPI,0
+VEN524,"Miles, Hansen and Hobbs",Marketing,INV-2023-524,22-12-2024,121269.91,21-01-2025,,Overdue,UPI,51
+VEN525,"Lee, Harris and Church",Marketing,INV-2023-525,15-04-2024,120289.8,15-05-2024,,Overdue,Cheque,302
+VEN526,Carr-Russell,Logistics,INV-2023-526,07-09-2024,141500.72,07-10-2024,17-10-2024,Paid,UPI,0
+VEN527,Brown-Castillo,Logistics,INV-2023-527,20-03-2024,184308.22,19-04-2024,,Pending,Bank Transfer,0
+VEN528,"Johnson, Rojas and Butler",Marketing,INV-2023-528,18-04-2024,68297.02,18-05-2024,18-05-2024,Paid,Cheque,0
+VEN529,"Kidd, Travis and Miranda",Restaurant Partners,INV-2023-529,07-03-2025,78261.77,06-04-2025,16-04-2025,Paid,UPI,0
+VEN530,Grant-Fry,Marketing,INV-2023-530,04-02-2025,159988.68,06-03-2025,,Overdue,Cheque,7
+VEN531,Montes-Kelley,Logistics,INV-2023-531,23-02-2025,25638.6,25-03-2025,,Overdue,Cheque,-12
+VEN532,Williams LLC,Restaurant Partners,INV-2023-532,30-01-2025,180858.66,01-03-2025,06-03-2025,Paid,Cheque,0
+VEN533,"James, Hernandez and Mueller",Packaging,INV-2023-533,13-10-2024,72515.06,12-11-2024,22-11-2024,Paid,Cheque,0
+VEN534,"Willis, Floyd and Hull",Logistics,INV-2023-534,11-07-2024,162086.4,10-08-2024,,Overdue,Bank Transfer,215
+VEN535,Stewart LLC,Marketing,INV-2023-535,19-10-2024,85607.64,18-11-2024,,Overdue,Cheque,115
+VEN536,Evans-Graham,Packaging,INV-2023-536,09-03-2025,90220.1,08-04-2025,,Pending,Cheque,0
+VEN537,"Thompson, Perry and Patel",Marketing,INV-2023-537,04-04-2024,16812.85,04-05-2024,,Overdue,Bank Transfer,313
+VEN538,Chang Ltd,Marketing,INV-2023-538,01-08-2024,91163.84,31-08-2024,31-08-2024,Paid,Bank Transfer,0
+VEN539,Lutz and Sons,Logistics,INV-2023-539,20-03-2024,119116.39,19-04-2024,24-04-2024,Paid,Cheque,0
+VEN540,Delacruz-Ford,Marketing,INV-2023-540,08-11-2024,13955.72,08-12-2024,,Overdue,Bank Transfer,95
+VEN541,Thomas Group,Marketing,INV-2023-541,15-10-2024,36061.66,14-11-2024,,Pending,UPI,0
+VEN542,Lopez-Mccoy,Marketing,INV-2023-542,08-12-2024,184276.92,07-01-2025,07-01-2025,Paid,Cheque,0
+VEN543,Moore Group,Logistics,INV-2023-543,13-12-2024,185364.54,12-01-2025,,Overdue,UPI,60
+VEN544,Jackson-Collins,Logistics,INV-2023-544,02-09-2024,169459.17,02-10-2024,07-10-2024,Paid,Bank Transfer,0
+VEN545,Callahan-Morse,Restaurant Partners,INV-2023-545,02-12-2024,174530.21,01-01-2025,,Pending,Cheque,0
+VEN546,Cobb-Ferguson,Packaging,INV-2023-546,17-10-2024,176854.53,16-11-2024,,Pending,Cheque,0
+VEN547,Vaughn-Massey,Marketing,INV-2023-547,11-07-2024,186239.66,10-08-2024,,Overdue,Bank Transfer,215
+VEN548,Hubbard PLC,Packaging,INV-2023-548,21-03-2024,172296.82,20-04-2024,,Overdue,Bank Transfer,327
+VEN549,"Clark, Anderson and Rogers",Packaging,INV-2023-549,07-06-2024,117562.7,07-07-2024,12-07-2024,Paid,Bank Transfer,0
+VEN550,"Farmer, Larson and Rodriguez",Marketing,INV-2023-550,18-06-2024,37203.4,18-07-2024,23-07-2024,Paid,UPI,0
+VEN551,"Barker, Williams and Potter",Restaurant Partners,INV-2023-551,02-02-2025,125623.11,04-03-2025,,Overdue,Bank Transfer,9
+VEN552,"Cooke, Mckenzie and Russell",Packaging,INV-2023-552,02-11-2024,162172.46,02-12-2024,30-11-2024,Paid,Bank Transfer,0
+VEN553,Simpson Inc,Marketing,INV-2023-553,09-10-2024,6224.85,08-11-2024,13-11-2024,Paid,Cheque,0
+VEN554,York-Fuller,Marketing,INV-2023-554,30-08-2024,93653.07,29-09-2024,24-09-2024,Paid,UPI,0
+VEN555,Gregory Ltd,Restaurant Partners,INV-2023-555,29-04-2024,71470.46,29-05-2024,,Pending,Bank Transfer,0
+VEN556,"Spencer, Morris and Austin",Restaurant Partners,INV-2023-556,18-01-2025,6405.08,17-02-2025,17-02-2025,Paid,Cheque,0
+VEN557,Williams-Harris,Marketing,INV-2023-557,22-07-2024,38086.56,21-08-2024,,Overdue,Cheque,204
+VEN558,"Ray, Hernandez and Long",Marketing,INV-2023-558,06-08-2024,175269.87,05-09-2024,05-09-2024,Paid,Bank Transfer,0
+VEN559,"Phillips, Ross and Fitzpatrick",Restaurant Partners,INV-2023-559,20-11-2024,179796.65,20-12-2024,,Pending,Bank Transfer,0
+VEN560,"Graham, Davis and Moreno",Restaurant Partners,INV-2023-560,26-05-2024,193302.05,25-06-2024,25-06-2024,Paid,Cheque,0
+VEN561,Rodriguez-Miller,Logistics,INV-2023-561,07-03-2025,151756.28,06-04-2025,,Pending,Bank Transfer,0
+VEN562,"Williams, Davidson and Edwards",Packaging,INV-2023-562,19-03-2024,189902.31,18-04-2024,,Overdue,Cheque,329
+VEN563,Osborne Group,Packaging,INV-2023-563,19-08-2024,155657.2,18-09-2024,,Pending,Cheque,0
+VEN564,Moore Inc,Logistics,INV-2023-564,16-05-2024,109561.43,15-06-2024,,Pending,UPI,0
+VEN565,Jones-Knight,Logistics,INV-2023-565,20-01-2025,7420.87,19-02-2025,,Overdue,Bank Transfer,22
+VEN566,Mclaughlin-Smith,Restaurant Partners,INV-2023-566,15-04-2024,46280.94,15-05-2024,13-05-2024,Paid,Bank Transfer,0
+VEN567,"Mendez, Phillips and Price",Marketing,INV-2023-567,09-11-2024,52097.51,09-12-2024,,Pending,UPI,0
+VEN568,Patel-Simon,Marketing,INV-2023-568,21-04-2024,152051.16,21-05-2024,,Pending,Bank Transfer,0
+VEN569,"Ortiz, Schmidt and Foley",Restaurant Partners,INV-2023-569,06-12-2024,98284.52,05-01-2025,,Overdue,UPI,67
+VEN570,"Jones, Davis and Russell",Logistics,INV-2023-570,30-12-2024,85323.29,29-01-2025,08-02-2025,Paid,UPI,0
+VEN571,Taylor-Green,Restaurant Partners,INV-2023-571,28-03-2024,190345.33,27-04-2024,,Overdue,UPI,320
+VEN572,"Hughes, Green and Krause",Restaurant Partners,INV-2023-572,20-05-2024,72186.54,19-06-2024,,Overdue,UPI,267
+VEN573,"Pugh, Murray and Davis",Restaurant Partners,INV-2023-573,18-09-2024,36495.42,18-10-2024,,Overdue,Bank Transfer,146
+VEN574,"Nelson, Arnold and Williams",Marketing,INV-2023-574,09-11-2024,94408.45,09-12-2024,,Pending,Bank Transfer,0
+VEN575,"Arnold, Fischer and Weiss",Packaging,INV-2023-575,04-01-2025,185023.5,03-02-2025,,Pending,Bank Transfer,0
+VEN576,"Simmons, Cummings and Wells",Packaging,INV-2023-576,05-07-2024,22524.86,04-08-2024,,Pending,Bank Transfer,0
+VEN577,Glenn-Rodriguez,Marketing,INV-2023-577,15-08-2024,132947.64,14-09-2024,09-09-2024,Paid,Cheque,0
+VEN578,Barry-Goodwin,Marketing,INV-2023-578,24-04-2024,50069.78,24-05-2024,29-05-2024,Paid,UPI,0
+VEN579,"Downs, Williams and Blackwell",Marketing,INV-2023-579,25-01-2025,148902.44,24-02-2025,06-03-2025,Paid,Cheque,0
+VEN580,Lane LLC,Logistics,INV-2023-580,10-02-2025,91494.3,12-03-2025,17-03-2025,Paid,Bank Transfer,0
+VEN581,"Smith, Mcgrath and May",Marketing,INV-2023-581,02-01-2025,41073.4,01-02-2025,,Overdue,Cheque,40
+VEN582,Price PLC,Logistics,INV-2023-582,11-02-2025,49179.23,13-03-2025,,Pending,UPI,0
+VEN583,Griffith-Bruce,Packaging,INV-2023-583,09-06-2024,131596.6,09-07-2024,14-07-2024,Paid,Cheque,0
+VEN584,Smith-Banks,Restaurant Partners,INV-2023-584,16-12-2024,122964.08,15-01-2025,10-01-2025,Paid,UPI,0
+VEN585,Heath LLC,Restaurant Partners,INV-2023-585,19-09-2024,135490.68,19-10-2024,,Overdue,Cheque,145
+VEN586,Erickson-Glass,Logistics,INV-2023-586,24-09-2024,100634.75,24-10-2024,03-11-2024,Paid,UPI,0
+VEN587,Smith-Hansen,Marketing,INV-2023-587,28-05-2024,141778.5,27-06-2024,,Overdue,UPI,259
+VEN588,"Brown, Trevino and Brooks",Packaging,INV-2023-588,03-02-2025,103956.52,05-03-2025,,Overdue,Cheque,8
+VEN589,Keller-Garner,Restaurant Partners,INV-2023-589,05-10-2024,55192.48,04-11-2024,,Overdue,Bank Transfer,129
+VEN590,Higgins Ltd,Logistics,INV-2023-590,28-09-2024,116694.67,28-10-2024,,Overdue,UPI,136
+VEN591,"Williams, Griffith and Griffith",Marketing,INV-2023-591,21-12-2024,61714.86,20-01-2025,,Overdue,Cheque,52
+VEN592,Mathis-Perez,Packaging,INV-2023-592,03-03-2025,161060.59,02-04-2025,,Overdue,UPI,-20
+VEN593,Hall-Daniel,Packaging,INV-2023-593,29-05-2024,51279.56,28-06-2024,23-06-2024,Paid,UPI,0
+VEN594,Diaz-Buchanan,Marketing,INV-2023-594,26-01-2025,99420.49,25-02-2025,20-02-2025,Paid,Bank Transfer,0
+VEN595,Costa Inc,Marketing,INV-2023-595,12-06-2024,145696.07,12-07-2024,,Overdue,Bank Transfer,244
+VEN596,Collins-Hebert,Marketing,INV-2023-596,11-03-2025,71148.74,10-04-2025,05-04-2025,Paid,Cheque,0
+VEN597,Welch LLC,Marketing,INV-2023-597,24-05-2024,74283.34,23-06-2024,,Pending,Bank Transfer,0
+VEN598,"Dean, Ruiz and Small",Restaurant Partners,INV-2023-598,07-02-2025,13293.48,09-03-2025,07-03-2025,Paid,Bank Transfer,0
+VEN599,"Harmon, Harrington and Morris",Logistics,INV-2023-599,09-07-2024,146816.83,08-08-2024,03-08-2024,Paid,Bank Transfer,0
+VEN600,Kelley and Sons,Marketing,INV-2023-600,04-12-2024,41019.14,03-01-2025,,Overdue,UPI,69
+VEN601,Anderson Inc,Restaurant Partners,INV-2023-601,15-07-2024,140770.64,14-08-2024,,Pending,Cheque,0
+VEN602,"Downs, Dixon and Carlson",Marketing,INV-2023-602,22-01-2025,194290.74,21-02-2025,,Overdue,UPI,20
+VEN603,"Massey, Randall and Williams",Logistics,INV-2023-603,02-12-2024,16383.67,01-01-2025,27-12-2024,Paid,Cheque,0
+VEN604,Smith Group,Logistics,INV-2023-604,22-07-2024,191211.71,21-08-2024,31-08-2024,Paid,Cheque,0
+VEN605,"Moore, Perez and Thomas",Restaurant Partners,INV-2023-605,08-01-2025,20473.96,07-02-2025,02-02-2025,Paid,Bank Transfer,0
+VEN606,Ortega Inc,Marketing,INV-2023-606,16-01-2025,119666.57,15-02-2025,,Overdue,Bank Transfer,26
+VEN607,"Price, Garcia and Gross",Restaurant Partners,INV-2023-607,10-08-2024,158353.74,09-09-2024,,Overdue,Bank Transfer,185
+VEN608,Miller and Sons,Restaurant Partners,INV-2023-608,08-02-2025,32376.74,10-03-2025,,Overdue,UPI,3
+VEN609,"Bates, Clark and Mcfarland",Restaurant Partners,INV-2023-609,23-09-2024,169836.82,23-10-2024,18-10-2024,Paid,Cheque,0
+VEN610,Cameron-Leblanc,Packaging,INV-2023-610,23-08-2024,179540.02,22-09-2024,,Overdue,Bank Transfer,172
+VEN611,"Daniel, Huynh and Wilson",Packaging,INV-2023-611,12-03-2025,182390.9,11-04-2025,11-04-2025,Paid,UPI,0
+VEN612,"Haas, Nelson and Miller",Marketing,INV-2023-612,17-04-2024,7603.68,17-05-2024,,Overdue,Cheque,300
+VEN613,Williams-Young,Packaging,INV-2023-613,28-08-2024,8588.2,27-09-2024,,Pending,Bank Transfer,0
+VEN614,Holmes-Zuniga,Logistics,INV-2023-614,11-08-2024,117134.36,10-09-2024,,Overdue,UPI,184
+VEN615,"Frank, Baxter and Lewis",Marketing,INV-2023-615,23-12-2024,91606.95,22-01-2025,,Pending,Bank Transfer,0
+VEN616,Stephens-Gomez,Logistics,INV-2023-616,08-09-2024,43326.72,08-10-2024,,Overdue,Cheque,156
+VEN617,Beasley and Sons,Packaging,INV-2023-617,31-03-2024,35902.38,30-04-2024,,Pending,Bank Transfer,0
+VEN618,Gonzales Inc,Restaurant Partners,INV-2023-618,11-03-2025,141521.26,10-04-2025,,Overdue,UPI,-28
+VEN619,Fuentes LLC,Packaging,INV-2023-619,30-07-2024,116493.03,29-08-2024,,Overdue,Cheque,196
+VEN620,Goodman Ltd,Logistics,INV-2023-620,17-02-2025,187034.25,19-03-2025,,Overdue,Bank Transfer,-6
+VEN621,Stout-Wilson,Marketing,INV-2023-621,21-03-2024,193476.01,20-04-2024,20-04-2024,Paid,UPI,0
+VEN622,"Murphy, Floyd and Mitchell",Marketing,INV-2023-622,28-10-2024,39051.5,27-11-2024,07-12-2024,Paid,UPI,0
+VEN623,"Flores, Chavez and Sanders",Logistics,INV-2023-623,29-08-2024,142186.22,28-09-2024,,Pending,UPI,0
+VEN624,Rodriguez Group,Marketing,INV-2023-624,06-12-2024,43846.79,05-01-2025,31-12-2024,Paid,Bank Transfer,0
+VEN625,Lynn PLC,Marketing,INV-2023-625,11-09-2024,7062.32,11-10-2024,,Overdue,UPI,153
+VEN626,Keller-Mccoy,Packaging,INV-2023-626,05-04-2024,134516.75,05-05-2024,,Pending,Cheque,0
+VEN627,Perez-Martin,Marketing,INV-2023-627,10-01-2025,79695.77,09-02-2025,07-02-2025,Paid,Bank Transfer,0
+VEN628,Santiago PLC,Marketing,INV-2023-628,24-09-2024,172947.18,24-10-2024,19-10-2024,Paid,Bank Transfer,0
+VEN629,Little Inc,Restaurant Partners,INV-2023-629,13-10-2024,105323.28,12-11-2024,17-11-2024,Paid,UPI,0
+VEN630,Perez and Sons,Restaurant Partners,INV-2023-630,12-12-2024,105319.54,11-01-2025,,Overdue,Cheque,61
+VEN631,"Hamilton, Martin and Rodriguez",Restaurant Partners,INV-2023-631,14-08-2024,195907.56,13-09-2024,,Overdue,UPI,181
+VEN632,Holland-Potter,Logistics,INV-2023-632,23-06-2024,199253.4,23-07-2024,28-07-2024,Paid,Bank Transfer,0
+VEN633,Porter-Lopez,Marketing,INV-2023-633,26-07-2024,8494.19,25-08-2024,25-08-2024,Paid,Cheque,0
+VEN634,Miller Ltd,Marketing,INV-2023-634,12-09-2024,96407.63,12-10-2024,,Pending,Bank Transfer,0
+VEN635,"Miles, Johnson and Bowers",Logistics,INV-2023-635,20-09-2024,184497.69,20-10-2024,30-10-2024,Paid,Bank Transfer,0
+VEN636,Lee-Fisher,Logistics,INV-2023-636,05-03-2025,83480.48,04-04-2025,,Pending,Cheque,0
+VEN637,Brewer-Schwartz,Packaging,INV-2023-637,18-05-2024,49837.7,17-06-2024,27-06-2024,Paid,UPI,0
+VEN638,Johnson-Martinez,Logistics,INV-2023-638,04-01-2025,79562.45,03-02-2025,,Pending,Bank Transfer,0
+VEN639,"Spencer, Clark and Moore",Marketing,INV-2023-639,16-11-2024,102684.19,16-12-2024,14-12-2024,Paid,Bank Transfer,0
+VEN640,"Walker, Hester and Kerr",Marketing,INV-2023-640,21-07-2024,91389.05,20-08-2024,,Pending,UPI,0
+VEN641,"Ortega, Garcia and Williams",Packaging,INV-2023-641,13-10-2024,28658.69,12-11-2024,,Overdue,Cheque,121
+VEN642,Bowen-Baker,Restaurant Partners,INV-2023-642,14-12-2024,93203.73,13-01-2025,,Pending,UPI,0
+VEN643,"Gutierrez, Thompson and Mcguire",Restaurant Partners,INV-2023-643,27-11-2024,65270.57,27-12-2024,27-12-2024,Paid,Bank Transfer,0
+VEN644,Fox and Sons,Marketing,INV-2023-644,22-12-2024,19550.32,21-01-2025,21-01-2025,Paid,Bank Transfer,0
+VEN645,Hall-Schwartz,Restaurant Partners,INV-2023-645,21-12-2024,82086.19,20-01-2025,,Pending,Bank Transfer,0
+VEN646,Reed and Sons,Packaging,INV-2023-646,16-08-2024,47204.88,15-09-2024,,Overdue,Bank Transfer,179
+VEN647,"Berg, Elliott and Griffith",Marketing,INV-2023-647,31-05-2024,54374.23,30-06-2024,25-06-2024,Paid,UPI,0
+VEN648,Miller-Chan,Logistics,INV-2023-648,18-11-2024,192595.26,18-12-2024,13-12-2024,Paid,UPI,0
+VEN649,Evans-Gomez,Marketing,INV-2023-649,09-06-2024,189092.22,09-07-2024,,Overdue,UPI,247
+VEN650,Miles and Sons,Logistics,INV-2023-650,04-03-2025,6460.75,03-04-2025,01-04-2025,Paid,UPI,0
+VEN651,Williams Inc,Restaurant Partners,INV-2023-651,03-11-2024,26900.74,03-12-2024,,Pending,Cheque,0
+VEN652,"Young, Nelson and Ponce",Marketing,INV-2023-652,17-01-2025,150609.05,16-02-2025,21-02-2025,Paid,Bank Transfer,0
+VEN653,Strickland-Bernard,Logistics,INV-2023-653,31-07-2024,118784.2,30-08-2024,,Overdue,Cheque,195
+VEN654,"Alvarez, Curry and Martinez",Restaurant Partners,INV-2023-654,03-04-2024,77486.51,03-05-2024,,Overdue,UPI,314
+VEN655,Zimmerman-Miller,Packaging,INV-2023-655,13-04-2024,190323.78,13-05-2024,,Pending,UPI,0
+VEN656,"Norman, Griffin and Burns",Restaurant Partners,INV-2023-656,16-02-2025,172915.04,18-03-2025,18-03-2025,Paid,Cheque,0
+VEN657,"Greer, Watts and Schmidt",Logistics,INV-2023-657,22-06-2024,118190.99,22-07-2024,,Overdue,Cheque,234
+VEN658,Edwards-Rodriguez,Restaurant Partners,INV-2023-658,22-09-2024,47788.51,22-10-2024,,Overdue,Cheque,142
+VEN659,Wilkinson and Sons,Restaurant Partners,INV-2023-659,06-09-2024,83810.63,06-10-2024,16-10-2024,Paid,Bank Transfer,0
+VEN660,Gibson-Mayo,Marketing,INV-2023-660,25-01-2025,170820.35,24-02-2025,,Pending,UPI,0
+VEN661,Richardson LLC,Packaging,INV-2023-661,01-06-2024,128377.17,01-07-2024,,Pending,Cheque,0
+VEN662,"Rodriguez, Sanchez and Sanchez",Packaging,INV-2023-662,12-11-2024,105719.28,12-12-2024,,Pending,Cheque,0
+VEN663,Ortega-Figueroa,Restaurant Partners,INV-2023-663,24-09-2024,114780.43,24-10-2024,22-10-2024,Paid,UPI,0
+VEN664,Taylor PLC,Marketing,INV-2023-664,03-02-2025,82874.49,05-03-2025,,Overdue,Cheque,8
+VEN665,Mack Ltd,Restaurant Partners,INV-2023-665,14-03-2024,10263.97,13-04-2024,,Overdue,Bank Transfer,334
+VEN666,Wise Group,Packaging,INV-2023-666,04-06-2024,119495.46,04-07-2024,,Overdue,Cheque,252
+VEN667,"Santos, Williams and Williams",Marketing,INV-2023-667,20-09-2024,165525.49,20-10-2024,,Overdue,Cheque,144
+VEN668,Vargas-Holden,Marketing,INV-2023-668,28-04-2024,127669.67,28-05-2024,28-05-2024,Paid,Bank Transfer,0
+VEN669,Reyes Ltd,Logistics,INV-2023-669,18-11-2024,39033.74,18-12-2024,28-12-2024,Paid,UPI,0
+VEN670,"Young, Rodriguez and Anderson",Logistics,INV-2023-670,28-05-2024,84487.3,27-06-2024,22-06-2024,Paid,Cheque,0
+VEN671,Calhoun-Knight,Logistics,INV-2023-671,08-02-2025,15663.73,10-03-2025,,Pending,UPI,0
+VEN672,"Griffith, Johnson and Rogers",Packaging,INV-2023-672,22-01-2025,72646.26,21-02-2025,,Pending,Bank Transfer,0
+VEN673,"Young, Williams and Holmes",Marketing,INV-2023-673,22-12-2024,141171.8,21-01-2025,,Overdue,Cheque,51
+VEN674,"Berry, Stone and Tyler",Marketing,INV-2023-674,13-06-2024,178479.92,13-07-2024,,Pending,Bank Transfer,0
+VEN675,"Shields, Alexander and Hansen",Logistics,INV-2023-675,06-04-2024,84427.76,06-05-2024,11-05-2024,Paid,UPI,0
+VEN676,Robertson-Lin,Logistics,INV-2023-676,31-05-2024,70861.9,30-06-2024,,Pending,Cheque,0
+VEN677,"Stevenson, Kelly and King",Marketing,INV-2023-677,14-03-2024,102469.88,13-04-2024,,Overdue,UPI,334
+VEN678,Payne-Morton,Marketing,INV-2023-678,12-08-2024,52879.48,11-09-2024,16-09-2024,Paid,Bank Transfer,0
+VEN679,Murphy and Sons,Packaging,INV-2023-679,25-11-2024,105638.35,25-12-2024,20-12-2024,Paid,Bank Transfer,0
+VEN680,Richards-Hunter,Packaging,INV-2023-680,25-05-2024,194084.58,24-06-2024,,Overdue,UPI,262
+VEN681,Martinez-Travis,Marketing,INV-2023-681,02-06-2024,124553.37,02-07-2024,,Overdue,UPI,254
+VEN682,Farrell-Flores,Packaging,INV-2023-682,29-03-2024,11796.47,28-04-2024,,Pending,UPI,0
+VEN683,"Davis, Mcdonald and Fischer",Restaurant Partners,INV-2023-683,27-04-2024,62996.74,27-05-2024,,Overdue,Cheque,290
+VEN684,Cannon LLC,Packaging,INV-2023-684,15-08-2024,33681.83,14-09-2024,,Pending,UPI,0
+VEN685,"Taylor, Gutierrez and Burnett",Restaurant Partners,INV-2023-685,19-05-2024,93887.2,18-06-2024,,Pending,Cheque,0
+VEN686,Brown-Dyer,Marketing,INV-2023-686,15-07-2024,167977.36,14-08-2024,,Overdue,UPI,211
+VEN687,"Stone, Benitez and Cox",Marketing,INV-2023-687,17-05-2024,68910.58,16-06-2024,16-06-2024,Paid,Cheque,0
+VEN688,"Smith, Oliver and Pena",Packaging,INV-2023-688,15-07-2024,50173.26,14-08-2024,12-08-2024,Paid,Cheque,0
+VEN689,Evans-Fox,Restaurant Partners,INV-2023-689,21-01-2025,17712.29,20-02-2025,18-02-2025,Paid,UPI,0
+VEN690,Hayes Inc,Logistics,INV-2023-690,27-10-2024,121781.97,26-11-2024,,Pending,UPI,0
+VEN691,Turner PLC,Restaurant Partners,INV-2023-691,26-06-2024,63323.05,26-07-2024,,Overdue,UPI,230
+VEN692,Smith Ltd,Logistics,INV-2023-692,13-01-2025,151041.67,12-02-2025,12-02-2025,Paid,Cheque,0
+VEN693,Smith-Montgomery,Marketing,INV-2023-693,10-02-2025,38740.38,12-03-2025,22-03-2025,Paid,UPI,0
+VEN694,"Perez, Ballard and Zhang",Logistics,INV-2023-694,15-01-2025,92536.05,14-02-2025,,Overdue,Bank Transfer,27
+VEN695,Lewis-Palmer,Logistics,INV-2023-695,11-05-2024,139155.16,10-06-2024,,Overdue,Cheque,276
+VEN696,Thomas-Smith,Logistics,INV-2023-696,10-05-2024,39352.99,09-06-2024,19-06-2024,Paid,UPI,0
+VEN697,Clarke LLC,Marketing,INV-2023-697,14-06-2024,126016.85,14-07-2024,,Pending,UPI,0
+VEN698,Cole-Odom,Restaurant Partners,INV-2023-698,10-02-2025,108963.24,12-03-2025,07-03-2025,Paid,UPI,0
+VEN699,Young-Diaz,Packaging,INV-2023-699,02-02-2025,146864.61,04-03-2025,09-03-2025,Paid,Cheque,0
+VEN700,"Foley, Martinez and Allen",Logistics,INV-2023-700,20-06-2024,89878.07,20-07-2024,15-07-2024,Paid,Bank Transfer,0
+VEN701,"Mitchell, Warren and Jones",Restaurant Partners,INV-2023-701,23-06-2024,11053.87,23-07-2024,,Pending,UPI,0
+VEN702,"Diaz, Sandoval and Sanders",Packaging,INV-2023-702,17-02-2025,74559.62,19-03-2025,29-03-2025,Paid,Cheque,0
+VEN703,Tucker Group,Restaurant Partners,INV-2023-703,05-08-2024,28290.68,04-09-2024,,Overdue,Bank Transfer,190
+VEN704,Fernandez Inc,Packaging,INV-2023-704,22-02-2025,161055.79,24-03-2025,,Pending,Bank Transfer,0
+VEN705,"Dickerson, White and Nunez",Marketing,INV-2023-705,29-06-2024,62748.61,29-07-2024,,Overdue,Bank Transfer,227
+VEN706,Meyer PLC,Logistics,INV-2023-706,20-04-2024,47861.17,20-05-2024,,Overdue,Cheque,297
+VEN707,Ford-Hanson,Logistics,INV-2023-707,03-10-2024,69267.05,02-11-2024,,Overdue,UPI,131
+VEN708,Gamble LLC,Packaging,INV-2023-708,14-05-2024,143274.15,13-06-2024,23-06-2024,Paid,UPI,0
+VEN709,Williams Group,Logistics,INV-2023-709,18-11-2024,192927.81,18-12-2024,18-12-2024,Paid,UPI,0
+VEN710,Anderson Inc,Packaging,INV-2023-710,15-04-2024,106215.56,15-05-2024,10-05-2024,Paid,UPI,0
+VEN711,Becker-Hampton,Packaging,INV-2023-711,06-06-2024,80670.39,06-07-2024,,Overdue,Cheque,250
+VEN712,Webb Ltd,Marketing,INV-2023-712,23-04-2024,54673.53,23-05-2024,18-05-2024,Paid,Bank Transfer,0
+VEN713,"Perez, Walker and Ortiz",Packaging,INV-2023-713,09-08-2024,183592.64,08-09-2024,,Pending,UPI,0
+VEN714,Bruce LLC,Restaurant Partners,INV-2023-714,01-12-2024,82908.07,31-12-2024,,Overdue,UPI,72
+VEN715,Cardenas-Mills,Restaurant Partners,INV-2023-715,06-04-2024,141312.42,06-05-2024,,Overdue,UPI,311
+VEN716,Taylor Inc,Restaurant Partners,INV-2023-716,05-01-2025,22723.07,04-02-2025,,Pending,UPI,0
+VEN717,Wolfe Ltd,Packaging,INV-2023-717,13-11-2024,116583.2,13-12-2024,,Pending,Bank Transfer,0
+VEN718,Whitaker-Gonzales,Packaging,INV-2023-718,02-09-2024,187780.58,02-10-2024,,Overdue,Cheque,162
+VEN719,Wood-Nicholson,Marketing,INV-2023-719,26-01-2025,111486.65,25-02-2025,07-03-2025,Paid,UPI,0
+VEN720,Barnett LLC,Packaging,INV-2023-720,22-10-2024,135585.82,21-11-2024,,Overdue,Bank Transfer,112
+VEN721,"Perez, Taylor and Wright",Restaurant Partners,INV-2023-721,30-04-2024,13966.19,30-05-2024,,Overdue,UPI,287
+VEN722,"Morris, Osborne and Alvarado",Packaging,INV-2023-722,24-02-2025,22350.8,26-03-2025,21-03-2025,Paid,UPI,0
+VEN723,"Frey, Gardner and Little",Restaurant Partners,INV-2023-723,13-02-2025,179870.42,15-03-2025,,Pending,Cheque,0
+VEN724,Valdez LLC,Logistics,INV-2023-724,21-03-2024,175541.65,20-04-2024,,Overdue,Cheque,327
+VEN725,"Moore, Perez and Woods",Restaurant Partners,INV-2023-725,26-01-2025,42638.11,25-02-2025,23-02-2025,Paid,UPI,0
+VEN726,Hoffman-Rodriguez,Restaurant Partners,INV-2023-726,15-01-2025,114805.51,14-02-2025,12-02-2025,Paid,Cheque,0
+VEN727,"Lozano, Rowland and Lewis",Packaging,INV-2023-727,03-11-2024,112493.87,03-12-2024,,Overdue,Bank Transfer,100
+VEN728,Fields Ltd,Marketing,INV-2023-728,08-08-2024,106418.02,07-09-2024,17-09-2024,Paid,UPI,0
+VEN729,Trujillo-Mclaughlin,Logistics,INV-2023-729,18-12-2024,186134.05,17-01-2025,,Overdue,Cheque,55
+VEN730,Grant and Sons,Marketing,INV-2023-730,14-04-2024,75346.09,14-05-2024,,Overdue,UPI,303
+VEN731,Fleming LLC,Logistics,INV-2023-731,22-09-2024,22372.89,22-10-2024,,Pending,Cheque,0
+VEN732,Sharp and Sons,Packaging,INV-2023-732,18-02-2025,120819.51,20-03-2025,,Pending,Bank Transfer,0
+VEN733,Keller LLC,Packaging,INV-2023-733,22-03-2024,26443.66,21-04-2024,,Pending,Bank Transfer,0
+VEN734,Fox Inc,Packaging,INV-2023-734,20-01-2025,110551.74,19-02-2025,14-02-2025,Paid,UPI,0
+VEN735,York Inc,Marketing,INV-2023-735,19-03-2024,103978.95,18-04-2024,13-04-2024,Paid,Bank Transfer,0
+VEN736,Abbott PLC,Packaging,INV-2023-736,15-03-2024,141350.14,14-04-2024,,Overdue,UPI,333
+VEN737,"Gibson, Kelly and Rivera",Marketing,INV-2023-737,24-11-2024,185723.69,24-12-2024,,Overdue,Cheque,79
+VEN738,Woods-Moore,Restaurant Partners,INV-2023-738,13-09-2024,8793.89,13-10-2024,,Pending,UPI,0
+VEN739,Lopez LLC,Restaurant Partners,INV-2023-739,21-01-2025,115228.07,20-02-2025,,Pending,Bank Transfer,0
+VEN740,"Li, Scott and Harris",Packaging,INV-2023-740,24-10-2024,28204.34,23-11-2024,,Overdue,UPI,110
+VEN741,Davenport Inc,Restaurant Partners,INV-2023-741,06-03-2025,20631.9,05-04-2025,31-03-2025,Paid,UPI,0
+VEN742,Peters LLC,Packaging,INV-2023-742,05-11-2024,123033.52,05-12-2024,,Pending,UPI,0
+VEN743,Mitchell-Payne,Restaurant Partners,INV-2023-743,17-12-2024,176507.84,16-01-2025,11-01-2025,Paid,Bank Transfer,0
+VEN744,"Banks, Buck and George",Logistics,INV-2023-744,08-04-2024,127787.28,08-05-2024,,Pending,UPI,0
+VEN745,"Hopkins, Black and Fuller",Marketing,INV-2023-745,15-08-2024,94709.07,14-09-2024,,Pending,Bank Transfer,0
+VEN746,Jones-Weeks,Marketing,INV-2023-746,19-06-2024,196928.05,19-07-2024,,Overdue,Cheque,237
+VEN747,Smith-Figueroa,Packaging,INV-2023-747,28-06-2024,44841.19,28-07-2024,,Overdue,UPI,228
+VEN748,"Smith, Rush and Lane",Marketing,INV-2023-748,04-12-2024,133722.92,03-01-2025,29-12-2024,Paid,Cheque,0
+VEN749,"Duncan, Glover and Davis",Packaging,INV-2023-749,08-02-2025,115579.92,10-03-2025,,Overdue,Bank Transfer,3
+VEN750,Duke Ltd,Restaurant Partners,INV-2023-750,13-02-2025,156674.01,15-03-2025,20-03-2025,Paid,Bank Transfer,0
+VEN751,Miller-Burton,Restaurant Partners,INV-2023-751,25-06-2024,91155.89,25-07-2024,20-07-2024,Paid,UPI,0
+VEN752,Mcguire-Cline,Restaurant Partners,INV-2023-752,10-02-2025,180902.7,12-03-2025,,Overdue,Bank Transfer,1
+VEN753,Nelson Group,Restaurant Partners,INV-2023-753,13-04-2024,76641.43,13-05-2024,,Pending,Cheque,0
+VEN754,Jackson-Sanchez,Logistics,INV-2023-754,02-12-2024,179093.8,01-01-2025,11-01-2025,Paid,UPI,0
+VEN755,Wood and Sons,Marketing,INV-2023-755,31-10-2024,13249.95,30-11-2024,,Overdue,Cheque,103
+VEN756,"Moreno, Weaver and Mclean",Logistics,INV-2023-756,11-08-2024,180155.27,10-09-2024,,Overdue,Cheque,184
+VEN757,Vazquez-Smith,Packaging,INV-2023-757,02-03-2025,152817.19,01-04-2025,,Pending,UPI,0
+VEN758,"Knight, Diaz and Freeman",Packaging,INV-2023-758,28-12-2024,197328.72,27-01-2025,,Pending,Cheque,0
+VEN759,"Maxwell, Douglas and Davis",Restaurant Partners,INV-2023-759,27-05-2024,148195.04,26-06-2024,24-06-2024,Paid,Bank Transfer,0
+VEN760,Cardenas and Sons,Marketing,INV-2023-760,15-02-2025,59950.17,17-03-2025,12-03-2025,Paid,Cheque,0
+VEN761,"Arnold, Myers and Reeves",Restaurant Partners,INV-2023-761,12-04-2024,185033.53,12-05-2024,,Pending,Bank Transfer,0
+VEN762,White LLC,Marketing,INV-2023-762,05-07-2024,150539.16,04-08-2024,,Pending,Cheque,0
+VEN763,Johnson-Gray,Logistics,INV-2023-763,28-03-2024,183607.57,27-04-2024,,Overdue,UPI,320
+VEN764,Winters-Bryant,Logistics,INV-2023-764,30-07-2024,124805.8,29-08-2024,03-09-2024,Paid,Bank Transfer,0
+VEN765,King-Flowers,Packaging,INV-2023-765,23-06-2024,53886.63,23-07-2024,,Pending,Cheque,0
+VEN766,Henry-Lynch,Logistics,INV-2023-766,29-06-2024,30959.96,29-07-2024,,Overdue,Bank Transfer,227
+VEN767,"Moore, Castro and Ellis",Restaurant Partners,INV-2023-767,02-09-2024,158373.13,02-10-2024,,Overdue,Bank Transfer,162
+VEN768,Mcdonald Inc,Packaging,INV-2023-768,19-01-2025,117819.68,18-02-2025,,Pending,Bank Transfer,0
+VEN769,"Humphrey, Hill and Sanchez",Packaging,INV-2023-769,20-07-2024,31647.6,19-08-2024,,Overdue,UPI,206
+VEN770,"Torres, Harris and White",Marketing,INV-2023-770,07-01-2025,135543.48,06-02-2025,,Pending,Cheque,0
+VEN771,"Roberts, Pruitt and Clark",Restaurant Partners,INV-2023-771,21-07-2024,48090.63,20-08-2024,,Pending,Bank Transfer,0
+VEN772,Kirby-Olson,Packaging,INV-2023-772,09-03-2025,26567.22,08-04-2025,06-04-2025,Paid,UPI,0
+VEN773,Harris Group,Packaging,INV-2023-773,27-07-2024,92854.39,26-08-2024,,Overdue,Cheque,199
+VEN774,"George, Rosales and Paul",Logistics,INV-2023-774,29-11-2024,178932.59,29-12-2024,,Overdue,Bank Transfer,74
+VEN775,"Walker, Green and Singh",Packaging,INV-2023-775,30-07-2024,145785.33,29-08-2024,,Overdue,Cheque,196
+VEN776,Cole Ltd,Packaging,INV-2023-776,07-10-2024,79527.81,06-11-2024,,Pending,Cheque,0
+VEN777,Snow and Sons,Marketing,INV-2023-777,15-03-2024,117797.57,14-04-2024,19-04-2024,Paid,UPI,0
+VEN778,"Walter, Carlson and Kidd",Logistics,INV-2023-778,18-06-2024,49612.67,18-07-2024,,Pending,Bank Transfer,0
+VEN779,Pearson and Sons,Packaging,INV-2023-779,21-11-2024,197962.25,21-12-2024,16-12-2024,Paid,Bank Transfer,0
+VEN780,Manning-Dixon,Marketing,INV-2023-780,11-05-2024,91976.52,10-06-2024,,Overdue,UPI,276
+VEN781,"Wood, Morales and Werner",Packaging,INV-2023-781,02-11-2024,145006.36,02-12-2024,02-12-2024,Paid,Cheque,0
+VEN782,"Walls, Williams and Smith",Restaurant Partners,INV-2023-782,16-02-2025,123710.35,18-03-2025,,Pending,Cheque,0
+VEN783,"Meyer, Reyes and Glover",Marketing,INV-2023-783,07-06-2024,127124.57,07-07-2024,,Pending,UPI,0
+VEN784,Cherry-Vaughn,Restaurant Partners,INV-2023-784,26-06-2024,63837.02,26-07-2024,,Pending,Cheque,0
+VEN785,Ochoa Inc,Logistics,INV-2023-785,27-07-2024,55533.38,26-08-2024,,Pending,Cheque,0
+VEN786,"Greene, Maldonado and Dunn",Marketing,INV-2023-786,18-07-2024,53463.5,17-08-2024,,Overdue,Bank Transfer,208
+VEN787,"Johnson, Fernandez and Martin",Marketing,INV-2023-787,08-11-2024,16528.68,08-12-2024,06-12-2024,Paid,Bank Transfer,0
+VEN788,Briggs Group,Packaging,INV-2023-788,30-09-2024,129700.76,30-10-2024,04-11-2024,Paid,UPI,0
+VEN789,Wilson-Jordan,Logistics,INV-2023-789,18-10-2024,171695.26,17-11-2024,22-11-2024,Paid,Cheque,0
+VEN790,"Tran, Townsend and Cole",Packaging,INV-2023-790,25-08-2024,90523.13,24-09-2024,,Overdue,Bank Transfer,170
+VEN791,Holt-Russo,Logistics,INV-2023-791,23-04-2024,182998.36,23-05-2024,,Overdue,Bank Transfer,294
+VEN792,"Snyder, Gutierrez and Young",Restaurant Partners,INV-2023-792,07-12-2024,196278.92,06-01-2025,01-01-2025,Paid,Cheque,0
+VEN793,Herman LLC,Restaurant Partners,INV-2023-793,02-03-2025,105948.44,01-04-2025,30-03-2025,Paid,UPI,0
+VEN794,Anderson and Sons,Marketing,INV-2023-794,21-06-2024,116799.64,21-07-2024,,Overdue,Cheque,235
+VEN795,Gray LLC,Logistics,INV-2023-795,10-05-2024,12122.6,09-06-2024,,Overdue,UPI,277
+VEN796,Jackson Inc,Restaurant Partners,INV-2023-796,24-06-2024,27618.01,24-07-2024,,Pending,Bank Transfer,0
+VEN797,Sosa-Romero,Logistics,INV-2023-797,28-02-2025,117182.12,30-03-2025,,Pending,Bank Transfer,0
+VEN798,"Barrett, Shannon and George",Marketing,INV-2023-798,04-02-2025,51135.23,06-03-2025,,Overdue,Cheque,7
+VEN799,Goodwin Inc,Packaging,INV-2023-799,07-08-2024,165134.52,06-09-2024,11-09-2024,Paid,UPI,0
+VEN800,Sullivan-Morales,Restaurant Partners,INV-2023-800,26-02-2025,114114.58,28-03-2025,,Pending,Bank Transfer,0
+VEN801,Smith Ltd,Restaurant Partners,INV-2023-801,22-01-2025,134355.22,21-02-2025,,Overdue,UPI,20
+VEN802,Bean-Johnston,Restaurant Partners,INV-2023-802,09-10-2024,95344.63,08-11-2024,,Pending,UPI,0
+VEN803,Briggs LLC,Marketing,INV-2023-803,19-04-2024,138081.1,19-05-2024,29-05-2024,Paid,Cheque,0
+VEN804,Wright Ltd,Logistics,INV-2023-804,23-04-2024,124731.88,23-05-2024,,Overdue,Bank Transfer,294
+VEN805,Costa-Mejia,Restaurant Partners,INV-2023-805,15-08-2024,44526.04,14-09-2024,,Overdue,Bank Transfer,180
+VEN806,Brown-Gomez,Marketing,INV-2023-806,13-02-2025,158071.52,15-03-2025,,Pending,Cheque,0
+VEN807,Turner Ltd,Marketing,INV-2023-807,16-09-2024,142880.99,16-10-2024,,Pending,Cheque,0
+VEN808,Jacobs-Barrett,Logistics,INV-2023-808,18-05-2024,46131.07,17-06-2024,22-06-2024,Paid,Bank Transfer,0
+VEN809,Flores-Medina,Logistics,INV-2023-809,09-08-2024,169199.33,08-09-2024,08-09-2024,Paid,Cheque,0
+VEN810,Harper-Rosario,Restaurant Partners,INV-2023-810,23-08-2024,68150.4,22-09-2024,,Overdue,UPI,172
+VEN811,"Fleming, Gonzalez and Chen",Marketing,INV-2023-811,19-10-2024,120419.08,18-11-2024,,Overdue,Cheque,115
+VEN812,"Sanchez, Wallace and Cherry",Marketing,INV-2023-812,05-01-2025,74709.02,04-02-2025,09-02-2025,Paid,UPI,0
+VEN813,"Spencer, Boone and Barker",Packaging,INV-2023-813,14-08-2024,56752.87,13-09-2024,,Overdue,UPI,181
+VEN814,"Mills, French and Crawford",Marketing,INV-2023-814,13-01-2025,26580.63,12-02-2025,12-02-2025,Paid,Bank Transfer,0
+VEN815,Hernandez LLC,Marketing,INV-2023-815,06-07-2024,116799.4,05-08-2024,03-08-2024,Paid,Cheque,0
+VEN816,Perez-Wallace,Packaging,INV-2023-816,22-11-2024,48344.3,22-12-2024,20-12-2024,Paid,Bank Transfer,0
+VEN817,Caldwell PLC,Marketing,INV-2023-817,14-11-2024,51965.11,14-12-2024,,Overdue,UPI,89
+VEN818,Randall-Kent,Logistics,INV-2023-818,05-12-2024,78475,04-01-2025,,Pending,UPI,0
+VEN819,"Rocha, Elliott and Jones",Logistics,INV-2023-819,06-03-2025,132499.04,05-04-2025,,Pending,Cheque,0
+VEN820,"Russell, Horton and Collier",Marketing,INV-2023-820,22-02-2025,107172.14,24-03-2025,,Overdue,Cheque,-11
+VEN821,Harrell Ltd,Marketing,INV-2023-821,12-10-2024,63171.86,11-11-2024,,Overdue,Bank Transfer,122
+VEN822,Thomas-Lawrence,Packaging,INV-2023-822,13-05-2024,56962.44,12-06-2024,,Pending,UPI,0
+VEN823,Valdez-Obrien,Marketing,INV-2023-823,23-11-2024,161621.43,23-12-2024,,Overdue,UPI,80
+VEN824,"Conner, Anderson and Davis",Marketing,INV-2023-824,14-09-2024,48745.1,14-10-2024,,Pending,Bank Transfer,0
+VEN825,Lewis PLC,Packaging,INV-2023-825,01-06-2024,143819.42,01-07-2024,06-07-2024,Paid,UPI,0
+VEN826,"Garcia, Kim and Robinson",Packaging,INV-2023-826,01-05-2024,48826.58,31-05-2024,,Overdue,UPI,286
+VEN827,Armstrong PLC,Logistics,INV-2023-827,10-11-2024,101978.2,10-12-2024,,Pending,UPI,0
+VEN828,Lopez-Morales,Packaging,INV-2023-828,28-11-2024,23481.65,28-12-2024,28-12-2024,Paid,UPI,0
+VEN829,Wall-Smith,Packaging,INV-2023-829,01-04-2024,23009.15,01-05-2024,,Pending,Cheque,0
+VEN830,Kelley and Sons,Logistics,INV-2023-830,28-07-2024,29159.63,27-08-2024,,Pending,Bank Transfer,0
+VEN831,Robinson-Edwards,Marketing,INV-2023-831,02-03-2025,29518.09,01-04-2025,,Overdue,Cheque,-19
+VEN832,"Thomas, Mccormick and Rice",Packaging,INV-2023-832,30-11-2024,42046.29,30-12-2024,,Pending,UPI,0
+VEN833,Craig and Sons,Marketing,INV-2023-833,17-08-2024,140719.44,16-09-2024,,Pending,Bank Transfer,0
+VEN834,"Nelson, Long and Garcia",Logistics,INV-2023-834,17-01-2025,67750.7,16-02-2025,,Pending,UPI,0
+VEN835,Coleman-Johnson,Marketing,INV-2023-835,11-02-2025,140425.28,13-03-2025,,Overdue,Cheque,0
+VEN836,Moore-Baker,Restaurant Partners,INV-2023-836,06-07-2024,138922.9,05-08-2024,,Overdue,UPI,220
+VEN837,Greene-West,Logistics,INV-2023-837,22-11-2024,87135.51,22-12-2024,,Pending,UPI,0
+VEN838,"Baker, Williams and Cowan",Logistics,INV-2023-838,14-09-2024,126055.15,14-10-2024,12-10-2024,Paid,Bank Transfer,0
+VEN839,Morales-King,Marketing,INV-2023-839,05-02-2025,99203.73,07-03-2025,,Overdue,Bank Transfer,6
+VEN840,Stanley LLC,Marketing,INV-2023-840,02-11-2024,74092.19,02-12-2024,12-12-2024,Paid,Cheque,0
+VEN841,"Dougherty, Myers and Harper",Marketing,INV-2023-841,11-12-2024,71712.72,10-01-2025,,Pending,Bank Transfer,0
+VEN842,Lewis-Boyer,Packaging,INV-2023-842,12-11-2024,154981.09,12-12-2024,,Overdue,Cheque,91
+VEN843,Graves and Sons,Logistics,INV-2023-843,16-03-2024,39802.72,15-04-2024,,Overdue,UPI,332
+VEN844,Thompson-George,Packaging,INV-2023-844,21-10-2024,45307.41,20-11-2024,15-11-2024,Paid,Bank Transfer,0
+VEN845,"Rodriguez, Cline and Smith",Restaurant Partners,INV-2023-845,01-08-2024,199457.27,31-08-2024,29-08-2024,Paid,Cheque,0
+VEN846,"Knight, Robertson and Mendez",Restaurant Partners,INV-2023-846,21-02-2025,125014.99,23-03-2025,,Pending,Cheque,0
+VEN847,"Bridges, Richardson and Bradley",Marketing,INV-2023-847,28-07-2024,50312.28,27-08-2024,,Overdue,UPI,198
+VEN848,"Roberts, Burnett and Day",Restaurant Partners,INV-2023-848,31-10-2024,25162.15,30-11-2024,,Overdue,UPI,103
+VEN849,Fischer Ltd,Logistics,INV-2023-849,20-12-2024,160113.43,19-01-2025,,Pending,Bank Transfer,0
+VEN850,"Schwartz, Ferguson and Eaton",Logistics,INV-2023-850,16-09-2024,137884.23,16-10-2024,,Pending,Cheque,0
+VEN851,Luna and Sons,Marketing,INV-2023-851,18-06-2024,93288.42,18-07-2024,23-07-2024,Paid,Bank Transfer,0
+VEN852,"Aguirre, Edwards and Scott",Packaging,INV-2023-852,28-03-2024,51610.58,27-04-2024,27-04-2024,Paid,UPI,0
+VEN853,Wolfe Inc,Packaging,INV-2023-853,30-12-2024,158025.18,29-01-2025,29-01-2025,Paid,Bank Transfer,0
+VEN854,"Ward, Allison and Hughes",Marketing,INV-2023-854,10-03-2025,191561.71,09-04-2025,,Pending,UPI,0
+VEN855,Guerrero and Sons,Restaurant Partners,INV-2023-855,15-07-2024,184948.01,14-08-2024,,Overdue,UPI,211
+VEN856,Marshall-Rodriguez,Packaging,INV-2023-856,29-06-2024,156086.3,29-07-2024,,Pending,Cheque,0
+VEN857,King PLC,Packaging,INV-2023-857,16-10-2024,93800.94,15-11-2024,10-11-2024,Paid,Bank Transfer,0
+VEN858,Lyons-Sanchez,Logistics,INV-2023-858,16-12-2024,133190.25,15-01-2025,,Pending,Bank Transfer,0
+VEN859,"Hudson, Collier and Kim",Marketing,INV-2023-859,25-06-2024,147261.67,25-07-2024,,Overdue,Bank Transfer,231
+VEN860,Malone LLC,Restaurant Partners,INV-2023-860,25-08-2024,189465.62,24-09-2024,,Pending,Cheque,0
+VEN861,Ochoa-Brown,Packaging,INV-2023-861,19-08-2024,37427.66,18-09-2024,,Pending,Bank Transfer,0
+VEN862,Gutierrez Inc,Marketing,INV-2023-862,07-08-2024,9011,06-09-2024,,Overdue,UPI,188
+VEN863,White-Powell,Logistics,INV-2023-863,24-01-2025,7981.75,23-02-2025,,Overdue,Bank Transfer,18
+VEN864,"Giles, Bradshaw and Green",Restaurant Partners,INV-2023-864,22-03-2024,175965.75,21-04-2024,,Pending,UPI,0
+VEN865,Smith Group,Restaurant Partners,INV-2023-865,14-10-2024,68364.35,13-11-2024,,Overdue,UPI,120
+VEN866,"Bush, Garcia and Marsh",Packaging,INV-2023-866,17-01-2025,168425.64,16-02-2025,,Overdue,Bank Transfer,25
+VEN867,Gibson-Wade,Logistics,INV-2023-867,08-01-2025,127043.36,07-02-2025,,Overdue,UPI,34
+VEN868,"Clark, Salinas and Williams",Restaurant Partners,INV-2023-868,17-07-2024,140743.59,16-08-2024,,Pending,UPI,0
+VEN869,Dean-Arroyo,Marketing,INV-2023-869,16-03-2024,127008.8,15-04-2024,,Overdue,Bank Transfer,332
+VEN870,Chambers Group,Restaurant Partners,INV-2023-870,16-02-2025,107890.93,18-03-2025,28-03-2025,Paid,UPI,0
+VEN871,Price-Davis,Logistics,INV-2023-871,03-05-2024,71345.81,02-06-2024,,Overdue,Bank Transfer,284
+VEN872,"Harrison, Campbell and Harrison",Logistics,INV-2023-872,30-07-2024,12154.55,29-08-2024,,Overdue,Cheque,196
+VEN873,Jones-Young,Packaging,INV-2023-873,17-10-2024,179055.62,16-11-2024,,Overdue,Cheque,117
+VEN874,Freeman Inc,Restaurant Partners,INV-2023-874,23-10-2024,52983.21,22-11-2024,,Overdue,Bank Transfer,111
+VEN875,Johnson Ltd,Logistics,INV-2023-875,26-01-2025,152362.18,25-02-2025,,Pending,Bank Transfer,0
+VEN876,Gutierrez-Brown,Logistics,INV-2023-876,07-12-2024,157898.81,06-01-2025,,Pending,Bank Transfer,0
+VEN877,"Cruz, Price and Zimmerman",Marketing,INV-2023-877,29-06-2024,93571.79,29-07-2024,24-07-2024,Paid,Cheque,0
+VEN878,Johnston-Williams,Logistics,INV-2023-878,13-01-2025,156173.8,12-02-2025,,Pending,Bank Transfer,0
+VEN879,Allen-Roman,Marketing,INV-2023-879,08-12-2024,111304.31,07-01-2025,,Overdue,Bank Transfer,65
+VEN880,Aguilar-Stewart,Restaurant Partners,INV-2023-880,22-11-2024,105914.03,22-12-2024,,Overdue,Bank Transfer,81
+VEN881,Wells-Maxwell,Restaurant Partners,INV-2023-881,13-12-2024,50297.76,12-01-2025,,Pending,Bank Transfer,0
+VEN882,Alvarez-Gonzalez,Logistics,INV-2023-882,21-12-2024,41177.94,20-01-2025,18-01-2025,Paid,UPI,0
+VEN883,Moran-Holland,Logistics,INV-2023-883,06-03-2025,185783.81,05-04-2025,,Pending,UPI,0
+VEN884,"Wilkinson, Kennedy and Howe",Logistics,INV-2023-884,15-10-2024,133679.14,14-11-2024,12-11-2024,Paid,Bank Transfer,0
+VEN885,"Gray, Tyler and Rhodes",Packaging,INV-2023-885,24-06-2024,46106.2,24-07-2024,,Pending,Cheque,0
+VEN886,"West, Henry and Whitehead",Packaging,INV-2023-886,08-05-2024,99034.89,07-06-2024,,Pending,UPI,0
+VEN887,Ochoa LLC,Logistics,INV-2023-887,17-04-2024,94478.84,17-05-2024,,Overdue,Bank Transfer,300
+VEN888,"Bauer, Holmes and Clark",Packaging,INV-2023-888,07-05-2024,11157.59,06-06-2024,,Pending,Cheque,0
+VEN889,Hall PLC,Marketing,INV-2023-889,12-03-2025,141271.18,11-04-2025,,Overdue,Bank Transfer,-29
+VEN890,Carter Inc,Packaging,INV-2023-890,30-10-2024,29084.55,29-11-2024,,Pending,Bank Transfer,0
+VEN891,Williams-Grant,Marketing,INV-2023-891,12-08-2024,165107.33,11-09-2024,11-09-2024,Paid,UPI,0
+VEN892,Bell-Rodriguez,Restaurant Partners,INV-2023-892,29-03-2024,195831.56,28-04-2024,,Overdue,UPI,319
+VEN893,Sanders Inc,Restaurant Partners,INV-2023-893,22-09-2024,161759.8,22-10-2024,,Overdue,Cheque,142
+VEN894,"Nelson, Hernandez and Valencia",Logistics,INV-2023-894,26-09-2024,187049.87,26-10-2024,21-10-2024,Paid,Cheque,0
+VEN895,Romero-Castro,Logistics,INV-2023-895,08-11-2024,32464.19,08-12-2024,,Overdue,Bank Transfer,95
+VEN896,English Ltd,Packaging,INV-2023-896,09-04-2024,49185.8,09-05-2024,04-05-2024,Paid,Bank Transfer,0
+VEN897,Freeman-Johnson,Packaging,INV-2023-897,10-09-2024,24455.35,10-10-2024,,Overdue,Bank Transfer,154
+VEN898,"Grant, Hernandez and Lane",Restaurant Partners,INV-2023-898,09-01-2025,73028.7,08-02-2025,,Overdue,UPI,33
+VEN899,Aguirre-Burnett,Restaurant Partners,INV-2023-899,28-06-2024,120863.01,28-07-2024,,Overdue,Bank Transfer,228
+VEN900,Carter-Jenkins,Restaurant Partners,INV-2023-900,05-11-2024,147557.43,05-12-2024,,Pending,Bank Transfer,0
+VEN901,Cardenas Ltd,Marketing,INV-2023-901,19-10-2024,23074.47,18-11-2024,,Overdue,Cheque,115
+VEN902,Brown-Hernandez,Logistics,INV-2023-902,11-07-2024,89283.09,10-08-2024,,Pending,Cheque,0
+VEN903,"Wells, Frazier and Liu",Packaging,INV-2023-903,06-01-2025,5944.37,05-02-2025,03-02-2025,Paid,UPI,0
+VEN904,Bowen-Williams,Marketing,INV-2023-904,26-04-2024,58444.84,26-05-2024,,Pending,Bank Transfer,0
+VEN905,Cervantes Group,Marketing,INV-2023-905,23-06-2024,180640.17,23-07-2024,28-07-2024,Paid,UPI,0
+VEN906,"Evans, Schwartz and Stevens",Logistics,INV-2023-906,20-04-2024,85804.44,20-05-2024,,Overdue,Bank Transfer,297
+VEN907,Lambert Group,Logistics,INV-2023-907,16-12-2024,36870.91,15-01-2025,20-01-2025,Paid,Bank Transfer,0
+VEN908,Ellison-Smith,Restaurant Partners,INV-2023-908,29-06-2024,161516.24,29-07-2024,,Pending,Cheque,0
+VEN909,Miller LLC,Restaurant Partners,INV-2023-909,03-01-2025,67436.31,02-02-2025,02-02-2025,Paid,UPI,0
+VEN910,"Williams, Ramirez and Brooks",Logistics,INV-2023-910,26-02-2025,27298.23,28-03-2025,02-04-2025,Paid,Cheque,0
+VEN911,"Rogers, Carr and Wright",Logistics,INV-2023-911,03-11-2024,80952.51,03-12-2024,,Overdue,Bank Transfer,100
+VEN912,"Mitchell, Dudley and Kennedy",Logistics,INV-2023-912,04-05-2024,198002.47,03-06-2024,,Pending,Bank Transfer,0
+VEN913,Bryant-Kerr,Logistics,INV-2023-913,21-12-2024,115549.87,20-01-2025,30-01-2025,Paid,Cheque,0
+VEN914,Blankenship LLC,Restaurant Partners,INV-2023-914,15-10-2024,37427.91,14-11-2024,09-11-2024,Paid,Cheque,0
+VEN915,"Cabrera, Rice and Miller",Marketing,INV-2023-915,24-01-2025,87766.77,23-02-2025,,Pending,Bank Transfer,0
+VEN916,Castillo Inc,Marketing,INV-2023-916,12-06-2024,58796.2,12-07-2024,,Pending,UPI,0
+VEN917,"Johnson, Thompson and Fowler",Restaurant Partners,INV-2023-917,16-08-2024,154193.52,15-09-2024,,Overdue,Bank Transfer,179
+VEN918,Schneider-Key,Packaging,INV-2023-918,16-07-2024,193350.18,15-08-2024,25-08-2024,Paid,Bank Transfer,0
+VEN919,Howard and Sons,Packaging,INV-2023-919,23-06-2024,192205.28,23-07-2024,18-07-2024,Paid,Bank Transfer,0
+VEN920,Martinez PLC,Restaurant Partners,INV-2023-920,28-01-2025,37247.38,27-02-2025,09-03-2025,Paid,UPI,0
+VEN921,Bowman-Phillips,Marketing,INV-2023-921,17-08-2024,150064.08,16-09-2024,,Overdue,Bank Transfer,178
+VEN922,Jones Group,Logistics,INV-2023-922,16-08-2024,171406.72,15-09-2024,,Overdue,UPI,179
+VEN923,Bond-Willis,Marketing,INV-2023-923,14-04-2024,111764.86,14-05-2024,,Overdue,Cheque,303
+VEN924,"Alvarez, Lewis and Carter",Restaurant Partners,INV-2023-924,16-08-2024,20573.88,15-09-2024,,Overdue,UPI,179
+VEN925,Rubio-Garcia,Packaging,INV-2023-925,19-09-2024,94596.43,19-10-2024,,Overdue,Cheque,145
+VEN926,"Yang, Roman and Singleton",Packaging,INV-2023-926,04-12-2024,29310.81,03-01-2025,,Overdue,UPI,69
+VEN927,"Pacheco, Vega and Flores",Packaging,INV-2023-927,26-02-2025,142702.06,28-03-2025,02-04-2025,Paid,Bank Transfer,0
+VEN928,Marquez-Ramirez,Restaurant Partners,INV-2023-928,04-01-2025,191158.41,03-02-2025,,Pending,Cheque,0
+VEN929,Holland Group,Marketing,INV-2023-929,18-01-2025,111464.91,17-02-2025,,Overdue,UPI,24
+VEN930,Page LLC,Marketing,INV-2023-930,03-07-2024,122094.16,02-08-2024,,Overdue,UPI,223
+VEN931,"Armstrong, Barnes and Bell",Marketing,INV-2023-931,01-07-2024,187687.83,31-07-2024,,Overdue,UPI,225
+VEN932,"Summers, Sims and Gomez",Marketing,INV-2023-932,27-01-2025,88688.4,26-02-2025,,Overdue,Bank Transfer,15
+VEN933,"Lin, Roberts and Thomas",Logistics,INV-2023-933,13-12-2024,118757.06,12-01-2025,07-01-2025,Paid,Bank Transfer,0
+VEN934,Obrien PLC,Restaurant Partners,INV-2023-934,25-11-2024,133676.75,25-12-2024,04-01-2025,Paid,Bank Transfer,0
+VEN935,Rogers-Jackson,Marketing,INV-2023-935,31-05-2024,50702.81,30-06-2024,30-06-2024,Paid,Cheque,0
+VEN936,"Hess, Vargas and Steele",Restaurant Partners,INV-2023-936,17-10-2024,71616.7,16-11-2024,21-11-2024,Paid,Cheque,0
+VEN937,Patel PLC,Logistics,INV-2023-937,25-08-2024,51696.48,24-09-2024,,Pending,Cheque,0
+VEN938,Crawford PLC,Logistics,INV-2023-938,16-06-2024,63675.71,16-07-2024,,Overdue,Cheque,240
+VEN939,Moran Ltd,Marketing,INV-2023-939,05-06-2024,68153.89,05-07-2024,,Pending,Cheque,0
+VEN940,Miller-Houston,Logistics,INV-2023-940,07-10-2024,104100.78,06-11-2024,01-11-2024,Paid,Bank Transfer,0
+VEN941,"Dixon, Dawson and Turner",Logistics,INV-2023-941,27-06-2024,82438.45,27-07-2024,,Overdue,Bank Transfer,229
+VEN942,Williams-Herrera,Restaurant Partners,INV-2023-942,16-12-2024,31679.86,15-01-2025,15-01-2025,Paid,Cheque,0
+VEN943,Snow Ltd,Logistics,INV-2023-943,12-05-2024,68032.51,11-06-2024,,Overdue,Bank Transfer,275
+VEN944,Oneill-Hurst,Packaging,INV-2023-944,23-03-2024,128548.95,22-04-2024,,Pending,Cheque,0
+VEN945,"Nolan, Mccall and Payne",Marketing,INV-2023-945,30-05-2024,65682.26,29-06-2024,,Pending,Bank Transfer,0
+VEN946,Patel-Suarez,Restaurant Partners,INV-2023-946,31-01-2025,82800.96,02-03-2025,,Pending,Bank Transfer,0
+VEN947,Scott LLC,Logistics,INV-2023-947,06-02-2025,129567.95,08-03-2025,,Pending,Cheque,0
+VEN948,Hernandez Group,Logistics,INV-2023-948,14-06-2024,79105.43,14-07-2024,14-07-2024,Paid,Bank Transfer,0
+VEN949,"Raymond, Martin and Avila",Marketing,INV-2023-949,04-03-2025,42138.13,03-04-2025,,Pending,Bank Transfer,0
+VEN950,"Williamson, Carter and Davis",Logistics,INV-2023-950,05-11-2024,170989.62,05-12-2024,,Overdue,UPI,98
+VEN951,"Wall, Webb and Riley",Packaging,INV-2023-951,19-12-2024,143825.29,18-01-2025,,Overdue,Cheque,54
+VEN952,Maldonado-Howard,Packaging,INV-2023-952,26-03-2024,86080.61,25-04-2024,,Overdue,Bank Transfer,322
+VEN953,Sutton-Lopez,Packaging,INV-2023-953,28-01-2025,45666.42,27-02-2025,,Overdue,UPI,14
+VEN954,Dickson-Kirk,Marketing,INV-2023-954,01-10-2024,199509.14,31-10-2024,,Pending,Bank Transfer,0
+VEN955,Paul-Gomez,Restaurant Partners,INV-2023-955,21-07-2024,90228.42,20-08-2024,,Pending,UPI,0
+VEN956,"Velazquez, Hawkins and Douglas",Restaurant Partners,INV-2023-956,30-10-2024,184258.82,29-11-2024,04-12-2024,Paid,UPI,0
+VEN957,Quinn Inc,Restaurant Partners,INV-2023-957,19-03-2024,194384.09,18-04-2024,,Overdue,Cheque,329
+VEN958,Hill Inc,Restaurant Partners,INV-2023-958,09-10-2024,170349.05,08-11-2024,,Overdue,UPI,125
+VEN959,Carpenter LLC,Restaurant Partners,INV-2023-959,30-03-2024,151468.01,29-04-2024,,Overdue,Bank Transfer,318
+VEN960,Blake LLC,Restaurant Partners,INV-2023-960,04-01-2025,7206.25,03-02-2025,,Overdue,Cheque,38
+VEN961,Lee-Smith,Restaurant Partners,INV-2023-961,25-08-2024,191581.91,24-09-2024,22-09-2024,Paid,UPI,0
+VEN962,Davenport-Morrow,Marketing,INV-2023-962,17-04-2024,160143.59,17-05-2024,,Overdue,UPI,300
+VEN963,Jefferson Ltd,Packaging,INV-2023-963,30-09-2024,119649.67,30-10-2024,30-10-2024,Paid,Cheque,0
+VEN964,Duffy-Jones,Marketing,INV-2023-964,13-11-2024,114099.35,13-12-2024,,Pending,UPI,0
+VEN965,Underwood-Jones,Logistics,INV-2023-965,15-10-2024,68569.71,14-11-2024,12-11-2024,Paid,Bank Transfer,0
+VEN966,Rowland-Young,Restaurant Partners,INV-2023-966,08-11-2024,37544.53,08-12-2024,,Overdue,Bank Transfer,95
+VEN967,Sandoval Ltd,Logistics,INV-2023-967,12-05-2024,14319.94,11-06-2024,,Overdue,Cheque,275
+VEN968,Gomez and Sons,Packaging,INV-2023-968,20-08-2024,128839.29,19-09-2024,,Pending,UPI,0
+VEN969,"Snyder, Livingston and Romero",Restaurant Partners,INV-2023-969,14-05-2024,59396.44,13-06-2024,23-06-2024,Paid,UPI,0
+VEN970,Atkinson-Burke,Logistics,INV-2023-970,20-10-2024,150555.4,19-11-2024,,Pending,Cheque,0
+VEN971,Perez Inc,Marketing,INV-2023-971,16-06-2024,116018.78,16-07-2024,14-07-2024,Paid,UPI,0
+VEN972,Woods-Michael,Restaurant Partners,INV-2023-972,03-11-2024,117253.25,03-12-2024,08-12-2024,Paid,Bank Transfer,0
+VEN973,"Martinez, Mitchell and Wells",Packaging,INV-2023-973,27-09-2024,95724.63,27-10-2024,,Pending,UPI,0
+VEN974,Poole-Adams,Marketing,INV-2023-974,16-03-2024,84811.15,15-04-2024,,Overdue,UPI,332
+VEN975,"Booth, Mcbride and Hayes",Logistics,INV-2023-975,24-10-2024,83833.3,23-11-2024,,Overdue,Cheque,110
+VEN976,Cruz Ltd,Packaging,INV-2023-976,28-11-2024,101509.9,28-12-2024,07-01-2025,Paid,Cheque,0
+VEN977,"Reyes, Montes and Flores",Marketing,INV-2023-977,16-11-2024,19614.83,16-12-2024,26-12-2024,Paid,Bank Transfer,0
+VEN978,Woods and Sons,Packaging,INV-2023-978,05-09-2024,116409.74,05-10-2024,15-10-2024,Paid,Bank Transfer,0
+VEN979,"Brown, Green and Morales",Packaging,INV-2023-979,11-05-2024,50595.13,10-06-2024,,Overdue,UPI,276
+VEN980,"Salinas, Hess and Sandoval",Marketing,INV-2023-980,09-12-2024,63533,08-01-2025,,Pending,Bank Transfer,0
+VEN981,Callahan-Nguyen,Logistics,INV-2023-981,26-07-2024,138424.21,25-08-2024,,Pending,UPI,0
+VEN982,"Henderson, Brown and Sanchez",Packaging,INV-2023-982,09-11-2024,180334.33,09-12-2024,,Pending,UPI,0
+VEN983,Smith-Davis,Restaurant Partners,INV-2023-983,02-09-2024,53611.85,02-10-2024,27-09-2024,Paid,Cheque,0
+VEN984,"Molina, Lopez and Bowen",Packaging,INV-2023-984,23-08-2024,168146,22-09-2024,02-10-2024,Paid,UPI,0
+VEN985,"Davis, Jacobs and Thomas",Restaurant Partners,INV-2023-985,06-04-2024,152296.92,06-05-2024,06-05-2024,Paid,UPI,0
+VEN986,Mason-Miller,Marketing,INV-2023-986,11-10-2024,22591.44,10-11-2024,05-11-2024,Paid,Bank Transfer,0
+VEN987,Wilson-Walker,Packaging,INV-2023-987,25-02-2025,127094.58,27-03-2025,,Pending,Bank Transfer,0
+VEN988,Davis Ltd,Restaurant Partners,INV-2023-988,01-05-2024,11612.11,31-05-2024,,Overdue,Cheque,286
+VEN989,Griffith LLC,Logistics,INV-2023-989,14-05-2024,169438.15,13-06-2024,,Pending,Cheque,0
+VEN990,"Alvarado, Miller and Scott",Restaurant Partners,INV-2023-990,18-07-2024,102269.06,17-08-2024,,Overdue,Cheque,208
+VEN991,Marquez Group,Logistics,INV-2023-991,10-10-2024,109801.81,09-11-2024,09-11-2024,Paid,Bank Transfer,0
+VEN992,Roberts-Greene,Logistics,INV-2023-992,26-10-2024,20850.16,25-11-2024,,Pending,UPI,0
+VEN993,Church Inc,Packaging,INV-2023-993,09-05-2024,47423.31,08-06-2024,08-06-2024,Paid,UPI,0
+VEN994,"Lewis, Shaw and Thomas",Restaurant Partners,INV-2023-994,19-03-2024,146010.39,18-04-2024,,Pending,UPI,0
+VEN995,"Taylor, Jones and Lopez",Marketing,INV-2023-995,20-09-2024,59177.42,20-10-2024,,Overdue,Bank Transfer,144
+VEN996,Flores-Smith,Packaging,INV-2023-996,21-10-2024,110883.88,20-11-2024,,Pending,UPI,0
+VEN997,Love-King,Restaurant Partners,INV-2023-997,20-03-2024,10512.73,19-04-2024,,Pending,Bank Transfer,0
+VEN998,"Hamilton, King and Parker",Restaurant Partners,INV-2023-998,30-07-2024,76712.5,29-08-2024,27-08-2024,Paid,Bank Transfer,0
+VEN999,"Erickson, Miller and Taylor",Packaging,INV-2023-999,15-03-2024,76706.45,14-04-2024,19-04-2024,Paid,UPI,0
+VEN1000,Anderson Ltd,Restaurant Partners,INV-2023-1000,08-09-2024,68758.03,08-10-2024,,Pending,Cheque,0
