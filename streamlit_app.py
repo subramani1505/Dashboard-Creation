@@ -3,7 +3,7 @@ import streamlit as st
 import plotly.express as px
 
 # Load and clean data
-df = pd.read_csv(r"C:\Users\subramani.v\Documents\zomato_accounts_payable.csv")
+df = pd.read_csv("zomato_accounts_payable.csv")
 df['Invoice Date'] = pd.to_datetime(df['Invoice Date'])
 df['Due Date'] = pd.to_datetime(df['Due Date'])
 df['Payment Date'] = pd.to_datetime(df['Payment Date'])
