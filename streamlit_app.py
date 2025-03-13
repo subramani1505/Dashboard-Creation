@@ -18,9 +18,9 @@ st.markdown(
     """
     <style>
     .metric-box {
-        background-color: yellow;
-        border-radius: 10px;
-        padding: 20px;
+        background-color: red;
+        border-radius: 5px;
+        padding: 15px;
         text-align: center;
         margin: 5px;
         box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
