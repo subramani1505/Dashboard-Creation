@@ -29,21 +29,6 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-# Custom CSS for the border
-st.markdown(
-    """
-    <style>
-    .chart-border {
-        border: 2px solid #000000; /* Black border */
-        border-radius: 10px; /* Rounded corners */
-        padding: 10px; /* Space inside the border */
-        margin-bottom: 20px; /* Space below the chart */
-    }
-    </style>
-    """,
-    unsafe_allow_html=True
-)
-
 # Key metrics cards
 col1, col2, col3 = st.columns(3)
 #col1.metric("Total Payables", f"₹{df['Invoice Amount'].sum():,.2f}")
@@ -76,15 +61,10 @@ with col2:
 st.subheader("Payment Status")
 col1, col2 = st.columns([1, 2])
 with col1:
-    # Wrap the chart in a div with the custom CSS class
-    st.markdown('<div class="chart-border">', unsafe_allow_html=True)
-    
-    # Create the pie chart
-    fig3 = px.pie(df, names='Payment Status', values='Invoice Amount', title='Payment Status Distribution')
-    st.plotly_chart(fig3, use_container_width=True)
-    
-    # Close the div
-    st.markdown('</div>', unsafe_allow_html=True)
+    top_vendors = df.groupby('Vendor Name', as_index=False)['Invoice Amount'].sum().nlargest(10, 'Invoice Amount')
+    fig1 = px.bar(top_vendors, x='Vendor Name', y='Invoice Amount', title='Top 10 Vendors by Invoice Amount')
+    st.plotly_chart(fig1, use_container_width=True)
+
 with col2:
     st.subheader("Overdue Invoices")
     overdue_df = df[df['Payment Status'] == 'Overdue'][['Vendor Name', 'Invoice Amount', 'Days Overdue']]
