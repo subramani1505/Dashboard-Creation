@@ -4,6 +4,7 @@ import plotly.express as px
 
 # Load and clean data
 df = pd.read_csv("zomato_accounts_payable.csv")
+
 df['Invoice Date'] = pd.to_datetime(df['Invoice Date'])
 df['Due Date'] = pd.to_datetime(df['Due Date'])
 df['Payment Date'] = pd.to_datetime(df['Payment Date'])
@@ -12,9 +13,37 @@ df['Days Overdue'] = df['Days Overdue'].apply(lambda x: max(0, x))
 # Dashboard title
 st.title("Zomato Accounts Payable Dashboard")
 
+# Custom CSS to style the columns
+st.markdown(
+    """
+    <style>
+    .metric-box {
+        background-color: yellow;
+        border-radius: 10px;
+        padding: 20px;
+        text-align: center;
+        margin: 5px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
 # Key metrics cards
 col1, col2, col3 = st.columns(3)
-col1.metric("Total Payables", f"₹{df['Invoice Amount'].sum():,.2f}")
+#col1.metric("Total Payables", f"₹{df['Invoice Amount'].sum():,.2f}")
+# Column 1: Total Payables
+with col1:
+    st.markdown(
+        f"""
+        <div class="metric-box">
+            <h3>Total Payables</h3>
+            <p>₹{df['Invoice Amount'].sum():,.2f}</p>
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
 col2.metric("Overdue Amount", f"₹{df[df['Payment Status'] == 'Overdue']['Invoice Amount'].sum():,.2f}")
 col3.metric("Avg Payment Days", f"{(df['Payment Date'] - df['Invoice Date']).dt.days.mean():.1f}")
 
